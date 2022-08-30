@@ -17,7 +17,7 @@ pip install NFGen
 
 We use one function ``sigmoid`` and one MPC deployment ``MP-SPDZ/rep-ring`` protocol for example. 
 
-The following demo is in ``./test/example.py``. 
+The following demo is in ``./tests/example.py``. 
 
 1) Import the required package
 ```python
