@@ -1,0 +1,1460 @@
+
+
+Test non_linear_profiler-1-3-2 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.704e-06
+Stopped timer 1 at 0.22889
+Finish test k = 3, m = 2
+Join timer: 0 0.229311
+Finish timer: 0.00136336
+Main time: 204.747 MS
+Time = 0.230822 seconds 
+Time1 = 0.22889 seconds 
+Data sent = 2.20413 MB in ~295 rounds (party 0)
+Global data sent = 8.40432 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-4 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.71e-06
+Stopped timer 1 at 0.372991
+Finish test k = 3, m = 4
+Join timer: 0 0.373391
+Finish timer: 0.000847683
+Main time: 344.218 MS
+Time = 0.3744 seconds 
+Time1 = 0.372991 seconds 
+Data sent = 3.67213 MB in ~295 rounds (party 0)
+Global data sent = 14.7283 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-6 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.041e-06
+Stopped timer 1 at 0.457281
+Finish test k = 3, m = 6
+Join timer: 0 0.457591
+Finish timer: 0.00064548
+Main time: 376.255 MS
+Time = 0.458388 seconds 
+Time1 = 0.457281 seconds 
+Data sent = 5.14013 MB in ~295 rounds (party 0)
+Global data sent = 21.0523 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-8 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.615e-06
+Stopped timer 1 at 0.597074
+Finish test k = 3, m = 8
+Join timer: 0 0.597385
+Finish timer: 0.000595872
+Main time: 516.696 MS
+Time = 0.598123 seconds 
+Time1 = 0.597074 seconds 
+Data sent = 6.60813 MB in ~295 rounds (party 0)
+Global data sent = 27.3763 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-10 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.024e-06
+Stopped timer 1 at 0.695659
+Finish test k = 3, m = 10
+Join timer: 0 0.695968
+Finish timer: 0.000649694
+Main time: 556.938 MS
+Time = 0.696758 seconds 
+Time1 = 0.695659 seconds 
+Data sent = 8.07613 MB in ~295 rounds (party 0)
+Global data sent = 33.7003 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-12 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.645e-06
+Stopped timer 1 at 0.874309
+Finish test k = 3, m = 12
+Join timer: 0 0.874585
+Finish timer: 0.000673317
+Main time: 770.174 MS
+Time = 0.875401 seconds 
+Time1 = 0.874309 seconds 
+Data sent = 9.86413 MB in ~297 rounds (party 0)
+Global data sent = 41.6243 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-14 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.923e-06
+Stopped timer 1 at 0.958944
+Finish test k = 3, m = 14
+Join timer: 0 0.959284
+Finish timer: 0.000622779
+Main time: 828.14 MS
+Time = 0.960049 seconds 
+Time1 = 0.958944 seconds 
+Data sent = 11.3321 MB in ~297 rounds (party 0)
+Global data sent = 47.9483 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-16 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.287e-06
+Stopped timer 1 at 1.03555
+Finish test k = 3, m = 16
+Join timer: 0 1.03589
+Finish timer: 0.000709321
+Main time: 981.626 MS
+Time = 1.03678 seconds 
+Time1 = 1.03555 seconds 
+Data sent = 12.8001 MB in ~297 rounds (party 0)
+Global data sent = 54.2723 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-18 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.12e-06
+Stopped timer 1 at 1.22715
+Finish test k = 3, m = 18
+Join timer: 0 1.22747
+Finish timer: 0.000697069
+Main time: 1029.8 MS
+Time = 1.22832 seconds 
+Time1 = 1.22715 seconds 
+Data sent = 14.2681 MB in ~297 rounds (party 0)
+Global data sent = 60.5963 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-20 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.725e-06
+Stopped timer 1 at 1.53505
+Finish test k = 3, m = 20
+Join timer: 0 1.53539
+Finish timer: 0.000708891
+Main time: 1116.86 MS
+Time = 1.53625 seconds 
+Time1 = 1.53505 seconds 
+Data sent = 15.7361 MB in ~297 rounds (party 0)
+Global data sent = 66.9203 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-22 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.582e-06
+Stopped timer 1 at 1.43963
+Finish test k = 3, m = 22
+Join timer: 0 1.44001
+Finish timer: 0.00212454
+Main time: 1184.56 MS
+Time = 1.44229 seconds 
+Time1 = 1.43963 seconds 
+Data sent = 17.8441 MB in ~299 rounds (party 0)
+Global data sent = 74.8443 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-24 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.114e-06
+Stopped timer 1 at 1.68186
+Finish test k = 3, m = 24
+Join timer: 0 1.68227
+Finish timer: 0.00231281
+Main time: 1437.94 MS
+Time = 1.68473 seconds 
+Time1 = 1.68186 seconds 
+Data sent = 19.3121 MB in ~299 rounds (party 0)
+Global data sent = 81.1683 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-26 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.436e-06
+Stopped timer 1 at 1.82457
+Finish test k = 3, m = 26
+Join timer: 0 1.82495
+Finish timer: 0.00240267
+Main time: 1442.73 MS
+Time = 1.82751 seconds 
+Time1 = 1.82457 seconds 
+Data sent = 20.7801 MB in ~299 rounds (party 0)
+Global data sent = 87.4923 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-28 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.872e-06
+Stopped timer 1 at 1.86282
+Finish test k = 3, m = 28
+Join timer: 0 1.86318
+Finish timer: 0.00272715
+Main time: 1553.82 MS
+Time = 1.86605 seconds 
+Time1 = 1.86282 seconds 
+Data sent = 22.2481 MB in ~299 rounds (party 0)
+Global data sent = 93.8163 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-30 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.828e-06
+Stopped timer 1 at 2.05244
+Finish test k = 3, m = 30
+Join timer: 0 2.05278
+Finish timer: 0.00252845
+Main time: 1736.09 MS
+Time = 2.05546 seconds 
+Time1 = 2.05244 seconds 
+Data sent = 23.7161 MB in ~299 rounds (party 0)
+Global data sent = 100.14 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-32 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.294e-06
+Stopped timer 1 at 2.44089
+Finish test k = 3, m = 32
+Join timer: 0 2.44124
+Finish timer: 0.00266423
+Main time: 1984.32 MS
+Time = 2.44404 seconds 
+Time1 = 2.44089 seconds 
+Data sent = 25.8241 MB in ~301 rounds (party 0)
+Global data sent = 108.064 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-34 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.254e-06
+Stopped timer 1 at 2.45614
+Finish test k = 3, m = 34
+Join timer: 0 2.45653
+Finish timer: 0.00309097
+Main time: 1992.31 MS
+Time = 2.45979 seconds 
+Time1 = 2.45614 seconds 
+Data sent = 27.2921 MB in ~301 rounds (party 0)
+Global data sent = 114.388 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-36 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.103e-06
+Stopped timer 1 at 2.67626
+Finish test k = 3, m = 36
+Join timer: 0 2.67663
+Finish timer: 0.00292556
+Main time: 2072.92 MS
+Time = 2.67971 seconds 
+Time1 = 2.67626 seconds 
+Data sent = 28.7601 MB in ~301 rounds (party 0)
+Global data sent = 120.712 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-38 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.065e-06
+Stopped timer 1 at 2.65706
+Finish test k = 3, m = 38
+Join timer: 0 2.65747
+Finish timer: 0.00335236
+Main time: 2310.85 MS
+Time = 2.66099 seconds 
+Time1 = 2.65706 seconds 
+Data sent = 30.2281 MB in ~301 rounds (party 0)
+Global data sent = 127.036 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-40 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.986e-06
+Stopped timer 1 at 2.72214
+Finish test k = 3, m = 40
+Join timer: 0 2.72251
+Finish timer: 0.00332379
+Main time: 2200.38 MS
+Time = 2.72598 seconds 
+Time1 = 2.72214 seconds 
+Data sent = 31.6961 MB in ~301 rounds (party 0)
+Global data sent = 133.36 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-42 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.042e-06
+Stopped timer 1 at 3.13054
+Finish test k = 3, m = 42
+Join timer: 0 3.1309
+Finish timer: 0.00347843
+Main time: 2625.54 MS
+Time = 3.13453 seconds 
+Time1 = 3.13054 seconds 
+Data sent = 33.4841 MB in ~303 rounds (party 0)
+Global data sent = 141.284 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-44 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.451e-06
+Stopped timer 1 at 3.16413
+Finish test k = 3, m = 44
+Join timer: 0 3.16445
+Finish timer: 0.00346727
+Main time: 2499.65 MS
+Time = 3.16808 seconds 
+Time1 = 3.16413 seconds 
+Data sent = 34.9521 MB in ~303 rounds (party 0)
+Global data sent = 147.608 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-46 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.49e-06
+Stopped timer 1 at 3.10732
+Finish test k = 3, m = 46
+Join timer: 0 3.10762
+Finish timer: 0.00357339
+Main time: 2498.51 MS
+Time = 3.11141 seconds 
+Time1 = 3.10732 seconds 
+Data sent = 36.4201 MB in ~303 rounds (party 0)
+Global data sent = 153.932 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-48 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.279e-06
+Stopped timer 1 at 3.17136
+Finish test k = 3, m = 48
+Join timer: 0 3.17174
+Finish timer: 0.00420546
+Main time: 2583.63 MS
+Time = 3.17609 seconds 
+Time1 = 3.17136 seconds 
+Data sent = 37.8881 MB in ~303 rounds (party 0)
+Global data sent = 160.256 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-3-50 using protocol ./replicated-ring-party.x 
+
+Success
+
+
+Test non_linear_profiler-1-5-2 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.966e-06
+Stopped timer 1 at 0.287854
+Finish test k = 5, m = 2
+Join timer: 0 0.288213
+Finish timer: 0.00098047
+Main time: 260.641 MS
+Time = 0.289478 seconds 
+Time1 = 0.287854 seconds 
+Data sent = 3.00413 MB in ~335 rounds (party 0)
+Global data sent = 12.9163 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-4 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.704e-06
+Stopped timer 1 at 0.479652
+Finish test k = 5, m = 4
+Join timer: 0 0.479981
+Finish timer: 0.000657543
+Main time: 421.709 MS
+Time = 0.480742 seconds 
+Time1 = 0.479652 seconds 
+Data sent = 4.98413 MB in ~335 rounds (party 0)
+Global data sent = 22.3123 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-6 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.384e-06
+Stopped timer 1 at 0.617392
+Finish test k = 5, m = 6
+Join timer: 0 0.617731
+Finish timer: 0.000607374
+Main time: 545.798 MS
+Time = 0.618485 seconds 
+Time1 = 0.617392 seconds 
+Data sent = 6.96413 MB in ~335 rounds (party 0)
+Global data sent = 31.7083 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-8 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.621e-06
+Stopped timer 1 at 0.788629
+Finish test k = 5, m = 8
+Join timer: 0 0.788951
+Finish timer: 0.000684665
+Main time: 643.999 MS
+Time = 0.789784 seconds 
+Time1 = 0.788629 seconds 
+Data sent = 8.94413 MB in ~335 rounds (party 0)
+Global data sent = 41.1043 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-10 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.297e-06
+Stopped timer 1 at 0.888159
+Finish test k = 5, m = 10
+Join timer: 0 0.888552
+Finish timer: 0.000990006
+Main time: 772.934 MS
+Time = 0.88969 seconds 
+Time1 = 0.888159 seconds 
+Data sent = 10.9241 MB in ~335 rounds (party 0)
+Global data sent = 50.5003 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-12 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.08e-06
+Stopped timer 1 at 1.16685
+Finish test k = 5, m = 12
+Join timer: 0 1.1672
+Finish timer: 0.000707303
+Main time: 1039.68 MS
+Time = 1.16805 seconds 
+Time1 = 1.16685 seconds 
+Data sent = 13.2241 MB in ~337 rounds (party 0)
+Global data sent = 61.4963 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-14 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.545e-06
+Stopped timer 1 at 1.31569
+Finish test k = 5, m = 14
+Join timer: 0 1.31599
+Finish timer: 0.000638347
+Main time: 1123.98 MS
+Time = 1.31678 seconds 
+Time1 = 1.31569 seconds 
+Data sent = 15.2041 MB in ~337 rounds (party 0)
+Global data sent = 70.8923 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-16 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.37e-06
+Stopped timer 1 at 1.42731
+Finish test k = 5, m = 16
+Join timer: 0 1.42765
+Finish timer: 0.000747216
+Main time: 1191.03 MS
+Time = 1.42859 seconds 
+Time1 = 1.42731 seconds 
+Data sent = 17.1841 MB in ~337 rounds (party 0)
+Global data sent = 80.2883 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-18 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.721e-06
+Stopped timer 1 at 1.89357
+Finish test k = 5, m = 18
+Join timer: 0 1.89394
+Finish timer: 0.000761574
+Main time: 1337.59 MS
+Time = 1.89486 seconds 
+Time1 = 1.89357 seconds 
+Data sent = 19.1641 MB in ~337 rounds (party 0)
+Global data sent = 89.6843 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-20 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.247e-06
+Stopped timer 1 at 2.00549
+Finish test k = 5, m = 20
+Join timer: 0 2.00593
+Finish timer: 0.000980426
+Main time: 1605.99 MS
+Time = 2.00707 seconds 
+Time1 = 2.00549 seconds 
+Data sent = 21.1441 MB in ~337 rounds (party 0)
+Global data sent = 99.0803 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-22 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.911e-06
+Stopped timer 1 at 2.10385
+Finish test k = 5, m = 22
+Join timer: 0 2.10419
+Finish timer: 0.0021845
+Main time: 1699.84 MS
+Time = 2.10654 seconds 
+Time1 = 2.10385 seconds 
+Data sent = 23.7641 MB in ~339 rounds (party 0)
+Global data sent = 110.076 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-24 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.318e-06
+Stopped timer 1 at 2.31981
+Finish test k = 5, m = 24
+Join timer: 0 2.32023
+Finish timer: 0.00216646
+Main time: 1909.87 MS
+Time = 2.32252 seconds 
+Time1 = 2.31981 seconds 
+Data sent = 25.7441 MB in ~339 rounds (party 0)
+Global data sent = 119.472 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-26 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.737e-06
+Stopped timer 1 at 2.48233
+Finish test k = 5, m = 26
+Join timer: 0 2.48265
+Finish timer: 0.00219189
+Main time: 1902.78 MS
+Time = 2.48497 seconds 
+Time1 = 2.48233 seconds 
+Data sent = 27.7241 MB in ~339 rounds (party 0)
+Global data sent = 128.868 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-28 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.911e-06
+Stopped timer 1 at 2.69335
+Finish test k = 5, m = 28
+Join timer: 0 2.69378
+Finish timer: 0.00253788
+Main time: 2099.17 MS
+Time = 2.69648 seconds 
+Time1 = 2.69335 seconds 
+Data sent = 29.7041 MB in ~339 rounds (party 0)
+Global data sent = 138.264 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-30 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.27e-06
+Stopped timer 1 at 2.96021
+Finish test k = 5, m = 30
+Join timer: 0 2.96058
+Finish timer: 0.00302082
+Main time: 2506.98 MS
+Time = 2.96377 seconds 
+Time1 = 2.96021 seconds 
+Data sent = 31.6841 MB in ~339 rounds (party 0)
+Global data sent = 147.66 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-32 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.64e-06
+Stopped timer 1 at 2.62418
+Finish test k = 5, m = 32
+Join timer: 0 2.6246
+Finish timer: 0.00358171
+Main time: 2376.93 MS
+Time = 2.62834 seconds 
+Time1 = 2.62418 seconds 
+Data sent = 34.3041 MB in ~341 rounds (party 0)
+Global data sent = 158.656 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-34 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.207e-06
+Stopped timer 1 at 2.78186
+Finish test k = 5, m = 34
+Join timer: 0 2.78225
+Finish timer: 0.00295325
+Main time: 2547.46 MS
+Time = 2.78536 seconds 
+Time1 = 2.78186 seconds 
+Data sent = 36.2841 MB in ~341 rounds (party 0)
+Global data sent = 168.052 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-36 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.894e-06
+Stopped timer 1 at 3.19615
+Finish test k = 5, m = 36
+Join timer: 0 3.19652
+Finish timer: 0.00318354
+Main time: 2432.46 MS
+Time = 3.19985 seconds 
+Time1 = 3.19615 seconds 
+Data sent = 38.2641 MB in ~341 rounds (party 0)
+Global data sent = 177.448 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-38 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.282e-06
+Stopped timer 1 at 3.73271
+Finish test k = 5, m = 38
+Join timer: 0 3.73315
+Finish timer: 0.00318474
+Main time: 3002.13 MS
+Time = 3.73648 seconds 
+Time1 = 3.73271 seconds 
+Data sent = 40.2441 MB in ~341 rounds (party 0)
+Global data sent = 186.844 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-40 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 1.942e-06
+Stopped timer 1 at 3.44207
+Finish test k = 5, m = 40
+Join timer: 0 3.44248
+Finish timer: 0.00393319
+Main time: 3081.11 MS
+Time = 3.44656 seconds 
+Time1 = 3.44207 seconds 
+Data sent = 42.2241 MB in ~341 rounds (party 0)
+Global data sent = 196.24 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-42 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.067e-06
+Stopped timer 1 at 3.81833
+Finish test k = 5, m = 42
+Join timer: 0 3.81881
+Finish timer: 0.00408607
+Main time: 2972.19 MS
+Time = 3.82305 seconds 
+Time1 = 3.81833 seconds 
+Data sent = 44.5241 MB in ~343 rounds (party 0)
+Global data sent = 207.236 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-44 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.383e-06
+Stopped timer 1 at 4.3607
+Finish test k = 5, m = 44
+Join timer: 0 4.36109
+Finish timer: 0.00342249
+Main time: 3095.57 MS
+Time = 4.36465 seconds 
+Time1 = 4.3607 seconds 
+Data sent = 46.5041 MB in ~343 rounds (party 0)
+Global data sent = 216.632 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-46 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.197e-06
+Stopped timer 1 at 3.67812
+Finish test k = 5, m = 46
+Join timer: 0 3.67841
+Finish timer: 0.00342307
+Main time: 3052.26 MS
+Time = 3.682 seconds 
+Time1 = 3.67812 seconds 
+Data sent = 48.4841 MB in ~343 rounds (party 0)
+Global data sent = 226.028 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-48 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.443e-06
+Stopped timer 1 at 4.8991
+Finish test k = 5, m = 48
+Join timer: 0 4.89957
+Finish timer: 0.00418713
+Main time: 3813.99 MS
+Time = 4.90392 seconds 
+Time1 = 4.8991 seconds 
+Data sent = 50.4641 MB in ~343 rounds (party 0)
+Global data sent = 235.424 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-5-50 using protocol ./replicated-ring-party.x 
+
+Success
+
+
+Test non_linear_profiler-1-7-2 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.088e-06
+Stopped timer 1 at 0.367478
+Finish test k = 7, m = 2
+Join timer: 0 0.367843
+Finish timer: 0.000665369
+Main time: 316.282 MS
+Time = 0.368655 seconds 
+Time1 = 0.367478 seconds 
+Data sent = 3.80413 MB in ~375 rounds (party 0)
+Global data sent = 17.4283 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-4 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.067e-06
+Stopped timer 1 at 0.565371
+Finish test k = 7, m = 4
+Join timer: 0 0.565661
+Finish timer: 0.000679877
+Main time: 522.439 MS
+Time = 0.566482 seconds 
+Time1 = 0.565371 seconds 
+Data sent = 6.29613 MB in ~375 rounds (party 0)
+Global data sent = 29.8963 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-6 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.335e-06
+Stopped timer 1 at 0.817727
+Finish test k = 7, m = 6
+Join timer: 0 0.81804
+Finish timer: 0.000794536
+Main time: 710.183 MS
+Time = 0.818996 seconds 
+Time1 = 0.817727 seconds 
+Data sent = 8.78813 MB in ~375 rounds (party 0)
+Global data sent = 42.3643 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-8 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.295e-06
+Stopped timer 1 at 1.01713
+Finish test k = 7, m = 8
+Join timer: 0 1.01748
+Finish timer: 0.000666081
+Main time: 891.676 MS
+Time = 1.01834 seconds 
+Time1 = 1.01713 seconds 
+Data sent = 11.2801 MB in ~375 rounds (party 0)
+Global data sent = 54.8323 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-10 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.514e-06
+Stopped timer 1 at 1.24157
+Finish test k = 7, m = 10
+Join timer: 0 1.24192
+Finish timer: 0.000736619
+Main time: 992.269 MS
+Time = 1.24282 seconds 
+Time1 = 1.24157 seconds 
+Data sent = 13.7721 MB in ~375 rounds (party 0)
+Global data sent = 67.3003 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-12 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.944e-06
+Stopped timer 1 at 1.55165
+Finish test k = 7, m = 12
+Join timer: 0 1.55201
+Finish timer: 0.000738801
+Main time: 1283.34 MS
+Time = 1.55289 seconds 
+Time1 = 1.55165 seconds 
+Data sent = 16.5841 MB in ~377 rounds (party 0)
+Global data sent = 81.3683 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-14 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.286e-06
+Stopped timer 1 at 1.74898
+Finish test k = 7, m = 14
+Join timer: 0 1.74929
+Finish timer: 0.000796688
+Main time: 1383.37 MS
+Time = 1.75025 seconds 
+Time1 = 1.74898 seconds 
+Data sent = 19.0761 MB in ~377 rounds (party 0)
+Global data sent = 93.8363 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-16 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.647e-06
+Stopped timer 1 at 1.91438
+Finish test k = 7, m = 16
+Join timer: 0 1.91481
+Finish timer: 0.00101168
+Main time: 1641.19 MS
+Time = 1.91599 seconds 
+Time1 = 1.91438 seconds 
+Data sent = 21.5681 MB in ~377 rounds (party 0)
+Global data sent = 106.304 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-18 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.769e-06
+Stopped timer 1 at 2.1985
+Finish test k = 7, m = 18
+Join timer: 0 2.19887
+Finish timer: 0.000768463
+Main time: 1658.36 MS
+Time = 2.19981 seconds 
+Time1 = 2.1985 seconds 
+Data sent = 24.0601 MB in ~377 rounds (party 0)
+Global data sent = 118.772 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-20 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.862e-06
+Stopped timer 1 at 2.40867
+Finish test k = 7, m = 20
+Join timer: 0 2.40913
+Finish timer: 0.000683779
+Main time: 1913.58 MS
+Time = 2.40998 seconds 
+Time1 = 2.40867 seconds 
+Data sent = 26.5521 MB in ~377 rounds (party 0)
+Global data sent = 131.24 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-22 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.223e-06
+Stopped timer 1 at 2.56445
+Finish test k = 7, m = 22
+Join timer: 0 2.56482
+Finish timer: 0.00208183
+Main time: 2012.58 MS
+Time = 2.56706 seconds 
+Time1 = 2.56445 seconds 
+Data sent = 29.6841 MB in ~379 rounds (party 0)
+Global data sent = 145.308 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-24 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.452e-06
+Stopped timer 1 at 2.74195
+Finish test k = 7, m = 24
+Join timer: 0 2.74231
+Finish timer: 0.00241259
+Main time: 2066.29 MS
+Time = 2.74487 seconds 
+Time1 = 2.74195 seconds 
+Data sent = 32.1761 MB in ~379 rounds (party 0)
+Global data sent = 157.776 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-26 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.569e-06
+Stopped timer 1 at 3.21234
+Finish test k = 7, m = 26
+Join timer: 0 3.21275
+Finish timer: 0.00262771
+Main time: 2277.32 MS
+Time = 3.21552 seconds 
+Time1 = 3.21234 seconds 
+Data sent = 34.6681 MB in ~379 rounds (party 0)
+Global data sent = 170.244 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-28 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.371e-06
+Stopped timer 1 at 3.50883
+Finish test k = 7, m = 28
+Join timer: 0 3.50916
+Finish timer: 0.00208877
+Main time: 2441.13 MS
+Time = 3.5114 seconds 
+Time1 = 3.50883 seconds 
+Data sent = 37.1601 MB in ~379 rounds (party 0)
+Global data sent = 182.712 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-30 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.156e-06
+Stopped timer 1 at 3.49791
+Finish test k = 7, m = 30
+Join timer: 0 3.49828
+Finish timer: 0.00239898
+Main time: 2791.95 MS
+Time = 3.50083 seconds 
+Time1 = 3.49791 seconds 
+Data sent = 39.6521 MB in ~379 rounds (party 0)
+Global data sent = 195.18 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-32 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.66e-06
+Stopped timer 1 at 3.81297
+Finish test k = 7, m = 32
+Join timer: 0 3.81333
+Finish timer: 0.00293288
+Main time: 2792.89 MS
+Time = 3.81641 seconds 
+Time1 = 3.81297 seconds 
+Data sent = 42.7841 MB in ~381 rounds (party 0)
+Global data sent = 209.248 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-34 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.369e-06
+Stopped timer 1 at 3.28203
+Finish test k = 7, m = 34
+Join timer: 0 3.28241
+Finish timer: 0.00282413
+Main time: 2823.22 MS
+Time = 3.28538 seconds 
+Time1 = 3.28203 seconds 
+Data sent = 45.2761 MB in ~381 rounds (party 0)
+Global data sent = 221.716 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-36 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.177e-06
+Stopped timer 1 at 3.53427
+Finish test k = 7, m = 36
+Join timer: 0 3.53459
+Finish timer: 0.00293309
+Main time: 2884.56 MS
+Time = 3.53768 seconds 
+Time1 = 3.53427 seconds 
+Data sent = 47.7681 MB in ~381 rounds (party 0)
+Global data sent = 234.184 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-38 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.625e-06
+Stopped timer 1 at 4.26073
+Finish test k = 7, m = 38
+Join timer: 0 4.26105
+Finish timer: 0.00295109
+Main time: 3362.6 MS
+Time = 4.26415 seconds 
+Time1 = 4.26073 seconds 
+Data sent = 50.2601 MB in ~381 rounds (party 0)
+Global data sent = 246.652 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-40 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.614e-06
+Stopped timer 1 at 4.29194
+Finish test k = 7, m = 40
+Join timer: 0 4.29229
+Finish timer: 0.00358572
+Main time: 3242.32 MS
+Time = 4.29605 seconds 
+Time1 = 4.29194 seconds 
+Data sent = 52.7521 MB in ~381 rounds (party 0)
+Global data sent = 259.12 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-42 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.962e-06
+Stopped timer 1 at 4.57564
+Finish test k = 7, m = 42
+Join timer: 0 4.57609
+Finish timer: 0.00355304
+Main time: 3700.73 MS
+Time = 4.57979 seconds 
+Time1 = 4.57564 seconds 
+Data sent = 55.5641 MB in ~383 rounds (party 0)
+Global data sent = 273.188 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-44 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.264e-06
+Stopped timer 1 at 4.95314
+Finish test k = 7, m = 44
+Join timer: 0 4.95354
+Finish timer: 0.00334245
+Main time: 4056.65 MS
+Time = 4.95703 seconds 
+Time1 = 4.95314 seconds 
+Data sent = 58.0561 MB in ~383 rounds (party 0)
+Global data sent = 285.656 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-46 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.276e-06
+Stopped timer 1 at 5.16523
+Finish test k = 7, m = 46
+Join timer: 0 5.16567
+Finish timer: 0.010295
+Main time: 4338.9 MS
+Time = 5.17613 seconds 
+Time1 = 5.16523 seconds 
+Data sent = 60.5481 MB in ~383 rounds (party 0)
+Global data sent = 298.124 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-48 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.255e-06
+Stopped timer 1 at 5.22485
+Finish test k = 7, m = 48
+Join timer: 0 5.22527
+Finish timer: 0.0038457
+Main time: 3938.36 MS
+Time = 5.22927 seconds 
+Time1 = 5.22485 seconds 
+Data sent = 63.0401 MB in ~383 rounds (party 0)
+Global data sent = 310.592 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-7-50 using protocol ./replicated-ring-party.x 
+
+Success
+
+
+Test non_linear_profiler-1-9-2 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.013e-06
+Stopped timer 1 at 0.422008
+Finish test k = 9, m = 2
+Join timer: 0 0.422415
+Finish timer: 0.000762467
+Main time: 364.755 MS
+Time = 0.42333 seconds 
+Time1 = 0.422008 seconds 
+Data sent = 4.79613 MB in ~375 rounds (party 0)
+Global data sent = 22.9003 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-4 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.06e-06
+Stopped timer 1 at 0.679806
+Finish test k = 9, m = 4
+Join timer: 0 0.680195
+Finish timer: 0.000982735
+Main time: 616.032 MS
+Time = 0.681357 seconds 
+Time1 = 0.679806 seconds 
+Data sent = 7.80013 MB in ~375 rounds (party 0)
+Global data sent = 38.4403 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-6 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.463e-06
+Stopped timer 1 at 0.934762
+Finish test k = 9, m = 6
+Join timer: 0 0.93503
+Finish timer: 0.000730287
+Main time: 774.138 MS
+Time = 0.935875 seconds 
+Time1 = 0.934762 seconds 
+Data sent = 10.8041 MB in ~375 rounds (party 0)
+Global data sent = 53.9803 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-8 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.27e-06
+Stopped timer 1 at 1.21484
+Finish test k = 9, m = 8
+Join timer: 0 1.21519
+Finish timer: 0.000691231
+Main time: 1005.64 MS
+Time = 1.21603 seconds 
+Time1 = 1.21484 seconds 
+Data sent = 13.8081 MB in ~375 rounds (party 0)
+Global data sent = 69.5203 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-10 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.026e-06
+Stopped timer 1 at 1.4763
+Finish test k = 9, m = 10
+Join timer: 0 1.47675
+Finish timer: 0.00117675
+Main time: 1151 MS
+Time = 1.47808 seconds 
+Time1 = 1.4763 seconds 
+Data sent = 16.8121 MB in ~375 rounds (party 0)
+Global data sent = 85.0603 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-12 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.961e-06
+Stopped timer 1 at 1.8298
+Finish test k = 9, m = 12
+Join timer: 0 1.83014
+Finish timer: 0.000792022
+Main time: 1432.95 MS
+Time = 1.83109 seconds 
+Time1 = 1.8298 seconds 
+Data sent = 20.1361 MB in ~377 rounds (party 0)
+Global data sent = 102.2 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-14 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.266e-06
+Stopped timer 1 at 1.93758
+Finish test k = 9, m = 14
+Join timer: 0 1.93796
+Finish timer: 0.00083229
+Main time: 1486.03 MS
+Time = 1.93894 seconds 
+Time1 = 1.93758 seconds 
+Data sent = 23.1401 MB in ~377 rounds (party 0)
+Global data sent = 117.74 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-16 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 1.3413e-05
+Stopped timer 1 at 2.35495
+Finish test k = 9, m = 16
+Join timer: 0 2.3553
+Finish timer: 0.000695561
+Main time: 1662.53 MS
+Time = 2.35615 seconds 
+Time1 = 2.35495 seconds 
+Data sent = 26.1441 MB in ~377 rounds (party 0)
+Global data sent = 133.28 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-18 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.498e-06
+Stopped timer 1 at 2.57788
+Finish test k = 9, m = 18
+Join timer: 0 2.57827
+Finish timer: 0.000804638
+Main time: 2013.59 MS
+Time = 2.57923 seconds 
+Time1 = 2.57788 seconds 
+Data sent = 29.1481 MB in ~377 rounds (party 0)
+Global data sent = 148.82 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-20 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.858e-06
+Stopped timer 1 at 2.81364
+Finish test k = 9, m = 20
+Join timer: 0 2.81397
+Finish timer: 0.000695503
+Main time: 2070.44 MS
+Time = 2.81481 seconds 
+Time1 = 2.81364 seconds 
+Data sent = 32.1521 MB in ~377 rounds (party 0)
+Global data sent = 164.36 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-22 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.971e-06
+Stopped timer 1 at 3.03949
+Finish test k = 9, m = 22
+Join timer: 0 3.03987
+Finish timer: 0.00257092
+Main time: 2314.31 MS
+Time = 3.04258 seconds 
+Time1 = 3.03949 seconds 
+Data sent = 35.7961 MB in ~379 rounds (party 0)
+Global data sent = 181.5 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-24 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.252e-06
+Stopped timer 1 at 3.11012
+Finish test k = 9, m = 24
+Join timer: 0 3.11051
+Finish timer: 0.00227015
+Main time: 2529.52 MS
+Time = 3.11293 seconds 
+Time1 = 3.11012 seconds 
+Data sent = 38.8001 MB in ~379 rounds (party 0)
+Global data sent = 197.04 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-26 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.073e-06
+Stopped timer 1 at 2.99925
+Finish test k = 9, m = 26
+Join timer: 0 2.99961
+Finish timer: 0.00224812
+Main time: 2421.98 MS
+Time = 3.00201 seconds 
+Time1 = 2.99925 seconds 
+Data sent = 41.8041 MB in ~379 rounds (party 0)
+Global data sent = 212.58 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-28 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.472e-06
+Stopped timer 1 at 3.91912
+Finish test k = 9, m = 28
+Join timer: 0 3.91954
+Finish timer: 0.00256032
+Main time: 2709.26 MS
+Time = 3.92225 seconds 
+Time1 = 3.91912 seconds 
+Data sent = 44.8081 MB in ~379 rounds (party 0)
+Global data sent = 228.12 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-30 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.934e-06
+Stopped timer 1 at 3.91495
+Finish test k = 9, m = 30
+Join timer: 0 3.91529
+Finish timer: 0.00240303
+Main time: 2869.17 MS
+Time = 3.91784 seconds 
+Time1 = 3.91495 seconds 
+Data sent = 47.8121 MB in ~379 rounds (party 0)
+Global data sent = 243.66 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-32 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.023e-06
+Stopped timer 1 at 4.18129
+Finish test k = 9, m = 32
+Join timer: 0 4.18166
+Finish timer: 0.00278915
+Main time: 3335 MS
+Time = 4.1846 seconds 
+Time1 = 4.18129 seconds 
+Data sent = 51.4561 MB in ~381 rounds (party 0)
+Global data sent = 260.8 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-34 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.977e-06
+Stopped timer 1 at 4.04027
+Finish test k = 9, m = 34
+Join timer: 0 4.04059
+Finish timer: 0.00265581
+Main time: 3416.01 MS
+Time = 4.04338 seconds 
+Time1 = 4.04027 seconds 
+Data sent = 54.4601 MB in ~381 rounds (party 0)
+Global data sent = 276.34 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-36 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.673e-06
+Stopped timer 1 at 4.63647
+Finish test k = 9, m = 36
+Join timer: 0 4.63697
+Finish timer: 0.00367914
+Main time: 3727.93 MS
+Time = 4.64081 seconds 
+Time1 = 4.63647 seconds 
+Data sent = 57.4641 MB in ~381 rounds (party 0)
+Global data sent = 291.88 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-38 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.514e-06
+Stopped timer 1 at 5.25172
+Finish test k = 9, m = 38
+Join timer: 0 5.25219
+Finish timer: 0.0045412
+Main time: 4605.7 MS
+Time = 5.2569 seconds 
+Time1 = 5.25172 seconds 
+Data sent = 60.4681 MB in ~381 rounds (party 0)
+Global data sent = 307.42 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-40 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.655e-06
+Stopped timer 1 at 5.30543
+Finish test k = 9, m = 40
+Join timer: 0 5.30586
+Finish timer: 0.0034084
+Main time: 4452.61 MS
+Time = 5.30943 seconds 
+Time1 = 5.30543 seconds 
+Data sent = 63.4721 MB in ~381 rounds (party 0)
+Global data sent = 322.96 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-42 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.264e-06
+Stopped timer 1 at 4.8861
+Finish test k = 9, m = 42
+Join timer: 0 4.88652
+Finish timer: 0.00332897
+Main time: 3905.04 MS
+Time = 4.89001 seconds 
+Time1 = 4.8861 seconds 
+Data sent = 66.7961 MB in ~383 rounds (party 0)
+Global data sent = 340.1 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-44 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.439e-06
+Stopped timer 1 at 5.82305
+Finish test k = 9, m = 44
+Join timer: 0 5.82341
+Finish timer: 0.00361358
+Main time: 4381.94 MS
+Time = 5.82717 seconds 
+Time1 = 5.82305 seconds 
+Data sent = 69.8001 MB in ~383 rounds (party 0)
+Global data sent = 355.64 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-46 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 2.663e-06
+Stopped timer 1 at 5.64928
+Finish test k = 9, m = 46
+Join timer: 0 5.64989
+Finish timer: 0.00415479
+Main time: 4526.94 MS
+Time = 5.65423 seconds 
+Time1 = 5.64928 seconds 
+Data sent = 72.8041 MB in ~383 rounds (party 0)
+Global data sent = 371.18 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-48 using protocol ./replicated-ring-party.x 
+
+Starting timer 1 at 0 after 3.41e-06
+Stopped timer 1 at 6.04808
+Finish test k = 9, m = 48
+Join timer: 0 6.04847
+Finish timer: 0.004002
+Main time: 4601.94 MS
+Time = 6.05263 seconds 
+Time1 = 6.04808 seconds 
+Data sent = 75.8081 MB in ~383 rounds (party 0)
+Global data sent = 386.72 MB (all parties)
+Success
+
+
+Test non_linear_profiler-1-9-50 using protocol ./replicated-ring-party.x 
+
+Success

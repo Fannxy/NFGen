@@ -1,0 +1,95 @@
+Metadata-Version: 2.1
+Name: NFGen
+Version: 0.0.1
+Summary: NFGen: Automatic Non-Linear Function Evaluation Code Generator for General-purpose MPC Platforms
+Author-email: Xiaoyu Fan <fanxy20@mails.tsinghua.edu.cn>
+License: MIT License
+        
+        Copyright (c) [year] [fullname]
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: Homepage, https://github.com/Fannxy/NFGen
+Project-URL: Bug Tracker, https://github.com/Fannxy/NFGen
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# NFGen
+NFGen: Automatic Non-Linear Function Evaluation Code Generator for General-purpose MPC Platforms
+
+## Introduction
+
+NFGen is designed to generate non-linear function evaluation code for general-purpose MPC platforms. 
+
+The requirement for the underlying MPC platform is three basic routines *addition*, *multiplication* and *greater-than* are provided and these three routines can be composed sequentially.
+
+## Demo case
+* Import the required package
+```python
+import sympy as sp
+from NFGen.main import generate_nonlinear_config
+import NFGen.CodeTemplet.templet as temp
+import NFGen.PerformanceModel.time_ops as to
+```
+
+* Write the non-linear function definition config (NFD)
+```python
+platform = "Rep3" # using MP-SPDZ Rep3 protocol as an example.
+f = 48
+n = 96
+profiler_file = './NFGen/PerformanceModel/' + platform + "_kmProfiler.pkl"
+
+# fundenmental functions, indicating they are cipher-text non-linear operations.
+def func_reciprocal(x):
+        return 1 / x
+
+def func_exp(x, lib=sp):
+    return lib.exp(x)
+
+# target function.
+def sigmoid(x):
+    return 1 * func_reciprocal((1 + func_exp(-x)))
+
+# define NFD
+sigmoid_config = {
+    "function": sigmoid, # function config.
+    "range": (-10, 10),
+    "k_max": 10, # set the maximum order.
+    "tol": 1e-3, # percision config.
+    "ms": 1000, # maximum samples.
+    "zero_mask": 1e-6,
+    "n": n, # <n, f> fixed-point config.
+    "f": f,
+    "profiler": profiler_file, # profiler model source file.
+    "code_templet": temp.templet_spdz, # spdz templet.
+    "code_language": "python", # indicating the templet language.
+    "config_file": "./sigmoig_spdz.py", # generated code file.
+    "time_dict": to.basic_time[platform], # basic operation time cost.
+    # "test_graph": "./graph/" # (optional, need mkdir for this folder first), whether generate the graph showing the approximation and the real function.
+}
+```
+* Generate the evaluation code using NFGen.
+```python
+# using NFGen to generate the target function code.
+generate_nonlinear_config(sigmoid_config)
+```

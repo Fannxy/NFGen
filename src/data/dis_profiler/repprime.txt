@@ -1,0 +1,1460 @@
+
+
+Test non_linear_profiler-2-3-2-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.496e-06
+Stopped timer 1 at 1.26136
+Finish test k = 3, m = 2
+Join timer: 0 1.26188
+Finish timer: 0.00172668
+Main time: 963.857 MS
+Time = 1.26375 seconds 
+Time1 = 1.26136 seconds 
+Data sent = 7.0078 MB in ~873 rounds (party 0)
+Global data sent = 18.8982 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-4-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.775e-06
+Stopped timer 1 at 1.94487
+Finish test k = 3, m = 4
+Join timer: 0 1.94545
+Finish timer: 0.00257835
+Main time: 1560.37 MS
+Time = 1.94819 seconds 
+Time1 = 1.94487 seconds 
+Data sent = 10.236 MB in ~1637 rounds (party 0)
+Global data sent = 27.578 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-6-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.06e-06
+Stopped timer 1 at 2.40273
+Finish test k = 3, m = 6
+Join timer: 0 2.40365
+Finish timer: 0.00312061
+Main time: 1886.39 MS
+Time = 2.40694 seconds 
+Time1 = 2.40273 seconds 
+Data sent = 12.0432 MB in ~2119 rounds (party 0)
+Global data sent = 32.3302 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-8-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.822e-06
+Stopped timer 1 at 3.23617
+Finish test k = 3, m = 8
+Join timer: 0 3.23682
+Finish timer: 0.00231981
+Main time: 2688.37 MS
+Time = 3.23928 seconds 
+Time1 = 3.23617 seconds 
+Data sent = 16.7225 MB in ~2857 rounds (party 0)
+Global data sent = 45.013 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-10-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.593e-06
+Stopped timer 1 at 3.78318
+Finish test k = 3, m = 10
+Join timer: 0 3.78383
+Finish timer: 0.00312577
+Main time: 2968.86 MS
+Time = 3.78709 seconds 
+Time1 = 3.78318 seconds 
+Data sent = 17.6591 MB in ~3264 rounds (party 0)
+Global data sent = 47.7134 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-12-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.642e-06
+Stopped timer 1 at 4.55238
+Finish test k = 3, m = 12
+Join timer: 0 4.55301
+Finish timer: 0.00243262
+Main time: 3695.96 MS
+Time = 4.55561 seconds 
+Time1 = 4.55238 seconds 
+Data sent = 22.9566 MB in ~4060 rounds (party 0)
+Global data sent = 61.9366 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-14-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.483e-06
+Stopped timer 1 at 5.34165
+Finish test k = 3, m = 14
+Join timer: 0 5.34221
+Finish timer: 0.00252003
+Main time: 4260.44 MS
+Time = 5.34488 seconds 
+Time1 = 5.34165 seconds 
+Data sent = 26.1973 MB in ~4509 rounds (party 0)
+Global data sent = 70.6478 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-16-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.871e-06
+Stopped timer 1 at 5.68265
+Finish test k = 3, m = 16
+Join timer: 0 5.68329
+Finish timer: 0.00284533
+Main time: 4743.33 MS
+Time = 5.68629 seconds 
+Time1 = 5.68265 seconds 
+Data sent = 27.1464 MB in ~4921 rounds (party 0)
+Global data sent = 73.3795 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-18-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.426e-06
+Stopped timer 1 at 6.31485
+Finish test k = 3, m = 18
+Join timer: 0 6.31558
+Finish timer: 0.00225655
+Main time: 4976.33 MS
+Time = 6.31798 seconds 
+Time1 = 6.31485 seconds 
+Data sent = 30.3897 MB in ~5531 rounds (party 0)
+Global data sent = 82.097 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-20-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.864e-06
+Stopped timer 1 at 7.09259
+Finish test k = 3, m = 20
+Join timer: 0 7.09318
+Finish timer: 0.00247037
+Main time: 5808.32 MS
+Time = 7.0958 seconds 
+Time1 = 7.09259 seconds 
+Data sent = 31.3489 MB in ~6107 rounds (party 0)
+Global data sent = 84.8539 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-22-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.847e-06
+Stopped timer 1 at 8.0685
+Finish test k = 3, m = 22
+Join timer: 0 8.06914
+Finish timer: 0.002977
+Main time: 6502.37 MS
+Time = 8.07228 seconds 
+Time1 = 8.0685 seconds 
+Data sent = 37.4718 MB in ~6640 rounds (party 0)
+Global data sent = 101.016 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-24-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.085e-06
+Stopped timer 1 at 8.25457
+Finish test k = 3, m = 24
+Join timer: 0 8.2551
+Finish timer: 0.00257283
+Main time: 6914.69 MS
+Time = 8.25782 seconds 
+Time1 = 8.25457 seconds 
+Data sent = 41.5455 MB in ~6989 rounds (party 0)
+Global data sent = 111.685 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-26-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.429e-06
+Stopped timer 1 at 9.21918
+Finish test k = 3, m = 26
+Join timer: 0 9.21989
+Finish timer: 0.00292053
+Main time: 7384.82 MS
+Time = 9.22297 seconds 
+Time1 = 9.21918 seconds 
+Data sent = 43.0927 MB in ~7947 rounds (party 0)
+Global data sent = 116.412 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-28-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.238e-06
+Stopped timer 1 at 9.52799
+Finish test k = 3, m = 28
+Join timer: 0 9.52861
+Finish timer: 0.00233459
+Main time: 7747.57 MS
+Time = 9.53108 seconds 
+Time1 = 9.52799 seconds 
+Data sent = 43.4613 MB in ~7980 rounds (party 0)
+Global data sent = 117.192 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-30-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.693e-06
+Stopped timer 1 at 9.80505
+Finish test k = 3, m = 30
+Join timer: 0 9.80561
+Finish timer: 0.00255021
+Main time: 8149.62 MS
+Time = 9.8083 seconds 
+Time1 = 9.80505 seconds 
+Data sent = 46.7046 MB in ~8270 rounds (party 0)
+Global data sent = 125.91 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-32-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.392e-06
+Stopped timer 1 at 11.195
+Finish test k = 3, m = 32
+Join timer: 0 11.1956
+Finish timer: 0.00261178
+Main time: 8942.19 MS
+Time = 11.1984 seconds 
+Time1 = 11.195 seconds 
+Data sent = 53.4231 MB in ~8868 rounds (party 0)
+Global data sent = 144.06 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-34-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.268e-06
+Stopped timer 1 at 11.6317
+Finish test k = 3, m = 34
+Join timer: 0 11.6323
+Finish timer: 0.00283394
+Main time: 9534.91 MS
+Time = 11.6353 seconds 
+Time1 = 11.6317 seconds 
+Data sent = 53.5316 MB in ~10337 rounds (party 0)
+Global data sent = 144.816 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-36-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.535e-06
+Stopped timer 1 at 12.3247
+Finish test k = 3, m = 36
+Join timer: 0 12.3253
+Finish timer: 0.00243771
+Main time: 10038.2 MS
+Time = 12.3279 seconds 
+Time1 = 12.3247 seconds 
+Data sent = 55.3414 MB in ~10500 rounds (party 0)
+Global data sent = 149.574 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-38-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.311e-06
+Stopped timer 1 at 12.4773
+Finish test k = 3, m = 38
+Join timer: 0 12.4779
+Finish timer: 0.00290917
+Main time: 10396.6 MS
+Time = 12.481 seconds 
+Time1 = 12.4773 seconds 
+Data sent = 59.4151 MB in ~10849 rounds (party 0)
+Global data sent = 160.243 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-40-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.438e-06
+Stopped timer 1 at 13.517
+Finish test k = 3, m = 40
+Join timer: 0 13.5176
+Finish timer: 0.00286448
+Main time: 10934.2 MS
+Time = 13.5207 seconds 
+Time1 = 13.517 seconds 
+Data sent = 63.2263 MB in ~11193 rounds (party 0)
+Global data sent = 170.88 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-42-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.393e-06
+Stopped timer 1 at 14.297
+Finish test k = 3, m = 42
+Join timer: 0 14.2976
+Finish timer: 0.00313559
+Main time: 11523.5 MS
+Time = 14.3009 seconds 
+Time1 = 14.297 seconds 
+Data sent = 67.0626 MB in ~11531 rounds (party 0)
+Global data sent = 181.075 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-44-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.34e-06
+Stopped timer 1 at 14.1516
+Finish test k = 3, m = 44
+Join timer: 0 14.1522
+Finish timer: 0.00252593
+Main time: 11471 MS
+Time = 14.1549 seconds 
+Time1 = 14.1516 seconds 
+Data sent = 68.8949 MB in ~11703 rounds (party 0)
+Global data sent = 185.89 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-46-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.131e-06
+Stopped timer 1 at 14.6598
+Finish test k = 3, m = 46
+Join timer: 0 14.6606
+Finish timer: 0.00427766
+Main time: 11931.8 MS
+Time = 14.6651 seconds 
+Time1 = 14.6598 seconds 
+Data sent = 70.4421 MB in ~11861 rounds (party 0)
+Global data sent = 190.617 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-48-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.81e-06
+Stopped timer 1 at 15.9074
+Finish test k = 3, m = 48
+Join timer: 0 15.9081
+Finish timer: 0.0031318
+Main time: 12696.4 MS
+Time = 15.9113 seconds 
+Time1 = 15.9074 seconds 
+Data sent = 74.5208 MB in ~12212 rounds (party 0)
+Global data sent = 201.299 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-50-0 using protocol ./replicated-field-party.x 
+
+Success
+
+
+Test non_linear_profiler-2-5-2-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.622e-06
+Stopped timer 1 at 1.96546
+Finish test k = 5, m = 2
+Join timer: 0 1.9661
+Finish timer: 0.00188002
+Main time: 1483.86 MS
+Time = 1.96812 seconds 
+Time1 = 1.96546 seconds 
+Data sent = 9.8741 MB in ~1545 rounds (party 0)
+Global data sent = 26.4823 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-4-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.952e-06
+Stopped timer 1 at 2.76482
+Finish test k = 5, m = 4
+Join timer: 0 2.76548
+Finish timer: 0.00266703
+Main time: 2212.59 MS
+Time = 2.76829 seconds 
+Time1 = 2.76482 seconds 
+Data sent = 14.1549 MB in ~2260 rounds (party 0)
+Global data sent = 37.7647 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-6-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.346e-06
+Stopped timer 1 at 3.77921
+Finish test k = 5, m = 6
+Join timer: 0 3.77983
+Finish timer: 0.00209713
+Main time: 2958.45 MS
+Time = 3.78207 seconds 
+Time1 = 3.77921 seconds 
+Data sent = 17.8112 MB in ~2998 rounds (party 0)
+Global data sent = 47.6108 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-8-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.837e-06
+Stopped timer 1 at 4.72597
+Finish test k = 5, m = 8
+Join timer: 0 4.72656
+Finish timer: 0.00338085
+Main time: 3834.73 MS
+Time = 4.73008 seconds 
+Time1 = 4.72597 seconds 
+Data sent = 22.3131 MB in ~3981 rounds (party 0)
+Global data sent = 59.4459 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-10-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.343e-06
+Stopped timer 1 at 5.24646
+Finish test k = 5, m = 10
+Join timer: 0 5.24695
+Finish timer: 0.00241672
+Main time: 4344.42 MS
+Time = 5.24952 seconds 
+Time1 = 5.24646 seconds 
+Data sent = 25.9795 MB in ~4723 rounds (party 0)
+Global data sent = 69.3172 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-12-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.345e-06
+Stopped timer 1 at 6.84217
+Finish test k = 5, m = 12
+Join timer: 0 6.8428
+Finish timer: 0.00286691
+Main time: 5558.65 MS
+Time = 6.84583 seconds 
+Time1 = 6.84217 seconds 
+Data sent = 33.9767 MB in ~5662 rounds (party 0)
+Global data sent = 90.6359 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-14-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.14e-06
+Stopped timer 1 at 7.20463
+Finish test k = 5, m = 14
+Join timer: 0 7.20525
+Finish timer: 0.00211421
+Main time: 5909.48 MS
+Time = 7.20751 seconds 
+Time1 = 7.20463 seconds 
+Data sent = 35.7359 MB in ~6188 rounds (party 0)
+Global data sent = 95.9891 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-16-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.32e-06
+Stopped timer 1 at 8.72258
+Finish test k = 5, m = 16
+Join timer: 0 8.7232
+Finish timer: 0.00274939
+Main time: 6901.53 MS
+Time = 8.72611 seconds 
+Time1 = 8.72258 seconds 
+Data sent = 39.3973 MB in ~6928 rounds (party 0)
+Global data sent = 105.848 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-18-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.119e-06
+Stopped timer 1 at 9.96551
+Finish test k = 5, m = 18
+Join timer: 0 9.96613
+Finish timer: 0.00324569
+Main time: 7928.56 MS
+Time = 9.96953 seconds 
+Time1 = 9.96551 seconds 
+Data sent = 46.1506 MB in ~8092 rounds (party 0)
+Global data sent = 123.562 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-20-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.494e-06
+Stopped timer 1 at 10.4194
+Finish test k = 5, m = 20
+Join timer: 0 10.4199
+Finish timer: 0.00296125
+Main time: 8407.98 MS
+Time = 10.423 seconds 
+Time1 = 10.4194 seconds 
+Data sent = 51.2656 MB in ~8607 rounds (party 0)
+Global data sent = 137.43 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-22-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.88e-06
+Stopped timer 1 at 11.4504
+Finish test k = 5, m = 22
+Join timer: 0 11.451
+Finish timer: 0.00235241
+Main time: 9269.44 MS
+Time = 11.4535 seconds 
+Time1 = 11.4504 seconds 
+Data sent = 55.5501 MB in ~9947 rounds (party 0)
+Global data sent = 148.841 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-24-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.19e-06
+Stopped timer 1 at 12.3309
+Finish test k = 5, m = 24
+Join timer: 0 12.3314
+Finish timer: 0.0027516
+Main time: 9778.81 MS
+Time = 12.3343 seconds 
+Time1 = 12.3309 seconds 
+Data sent = 58.1348 MB in ~10170 rounds (party 0)
+Global data sent = 156.133 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-26-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.34e-06
+Stopped timer 1 at 13.6736
+Finish test k = 5, m = 26
+Join timer: 0 13.6743
+Finish timer: 0.00252208
+Main time: 10796 MS
+Time = 13.6769 seconds 
+Time1 = 13.6736 seconds 
+Data sent = 63.5048 MB in ~10687 rounds (party 0)
+Global data sent = 170.014 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-28-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.026e-06
+Stopped timer 1 at 14.3239
+Finish test k = 5, m = 28
+Join timer: 0 14.3246
+Finish timer: 0.00264894
+Main time: 11315 MS
+Time = 14.3274 seconds 
+Time1 = 14.3239 seconds 
+Data sent = 67.1637 MB in ~11066 rounds (party 0)
+Global data sent = 179.866 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-30-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.479e-06
+Stopped timer 1 at 15.6711
+Finish test k = 5, m = 30
+Join timer: 0 15.6717
+Finish timer: 0.00289532
+Main time: 12672.7 MS
+Time = 15.6747 seconds 
+Time1 = 15.6711 seconds 
+Data sent = 72.2536 MB in ~13191 rounds (party 0)
+Global data sent = 193.672 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-32-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.93e-06
+Stopped timer 1 at 15.9505
+Finish test k = 5, m = 32
+Join timer: 0 15.9511
+Finish timer: 0.00242183
+Main time: 13138.4 MS
+Time = 15.9537 seconds 
+Time1 = 15.9505 seconds 
+Data sent = 76.5331 MB in ~13629 rounds (party 0)
+Global data sent = 205.071 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-34-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.498e-06
+Stopped timer 1 at 16.7925
+Finish test k = 5, m = 34
+Join timer: 0 16.7932
+Finish timer: 0.00271357
+Main time: 13618.6 MS
+Time = 16.796 seconds 
+Time1 = 16.7925 seconds 
+Data sent = 81.4094 MB in ~14049 rounds (party 0)
+Global data sent = 218.342 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-36-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.623e-06
+Stopped timer 1 at 18.0977
+Finish test k = 5, m = 36
+Join timer: 0 18.0984
+Finish timer: 0.00239126
+Main time: 14545.1 MS
+Time = 18.1009 seconds 
+Time1 = 18.0977 seconds 
+Data sent = 85.0758 MB in ~14431 rounds (party 0)
+Global data sent = 228.213 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-38-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.976e-06
+Stopped timer 1 at 19.3101
+Finish test k = 5, m = 38
+Join timer: 0 19.3108
+Finish timer: 0.00285624
+Main time: 15603.2 MS
+Time = 19.3138 seconds 
+Time1 = 19.3101 seconds 
+Data sent = 90.1682 MB in ~14937 rounds (party 0)
+Global data sent = 242.025 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-40-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.135e-06
+Stopped timer 1 at 19.8057
+Finish test k = 5, m = 40
+Join timer: 0 19.8062
+Finish timer: 0.0025582
+Main time: 15866.9 MS
+Time = 19.8089 seconds 
+Time1 = 19.8057 seconds 
+Data sent = 93.827 MB in ~15316 rounds (party 0)
+Global data sent = 251.877 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-42-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.909e-06
+Stopped timer 1 at 21.1201
+Finish test k = 5, m = 42
+Join timer: 0 21.1207
+Finish timer: 0.0023529
+Main time: 16573.9 MS
+Time = 21.1233 seconds 
+Time1 = 21.1201 seconds 
+Data sent = 99.5501 MB in ~15885 rounds (party 0)
+Global data sent = 267.26 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-44-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.218e-06
+Stopped timer 1 at 23.2223
+Finish test k = 5, m = 44
+Join timer: 0 23.223
+Finish timer: 0.00295046
+Main time: 18695.6 MS
+Time = 23.226 seconds 
+Time1 = 23.2223 seconds 
+Data sent = 103.828 MB in ~19119 rounds (party 0)
+Global data sent = 278.537 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-46-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.854e-06
+Stopped timer 1 at 23.3754
+Finish test k = 5, m = 46
+Join timer: 0 23.376
+Finish timer: 0.00287305
+Main time: 18886.5 MS
+Time = 23.379 seconds 
+Time1 = 23.3754 seconds 
+Data sent = 108.323 MB in ~19559 rounds (party 0)
+Global data sent = 290.353 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-48-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.323e-06
+Stopped timer 1 at 24.1852
+Finish test k = 5, m = 48
+Join timer: 0 24.1859
+Finish timer: 0.00331615
+Main time: 19283.9 MS
+Time = 24.1893 seconds 
+Time1 = 24.1852 seconds 
+Data sent = 113.42 MB in ~20067 rounds (party 0)
+Global data sent = 304.177 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-50-0 using protocol ./replicated-field-party.x 
+
+Success
+
+
+Test non_linear_profiler-2-7-2-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.753e-06
+Stopped timer 1 at 2.31815
+Finish test k = 7, m = 2
+Join timer: 0 2.31878
+Finish timer: 0.00219461
+Main time: 1690.83 MS
+Time = 2.32113 seconds 
+Time1 = 2.31815 seconds 
+Data sent = 12.1273 MB in ~1825 rounds (party 0)
+Global data sent = 32.0334 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-4-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.951e-06
+Stopped timer 1 at 3.615
+Finish test k = 7, m = 4
+Join timer: 0 3.61569
+Finish timer: 0.00226443
+Main time: 2845.36 MS
+Time = 3.61811 seconds 
+Time1 = 3.615 seconds 
+Data sent = 18.2748 MB in ~2803 rounds (party 0)
+Global data sent = 48.4538 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-6-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.944e-06
+Stopped timer 1 at 5.26686
+Finish test k = 7, m = 6
+Join timer: 0 5.2676
+Finish timer: 0.0033645
+Main time: 4006.21 MS
+Time = 5.27111 seconds 
+Time1 = 5.26686 seconds 
+Data sent = 23.7903 MB in ~4001 rounds (party 0)
+Global data sent = 63.419 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-8-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.875e-06
+Stopped timer 1 at 6.12527
+Finish test k = 7, m = 8
+Join timer: 0 6.12598
+Finish timer: 0.00280881
+Main time: 4820.9 MS
+Time = 6.12895 seconds 
+Time1 = 6.12527 seconds 
+Data sent = 29.3309 MB in ~5009 rounds (party 0)
+Global data sent = 78.4471 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-10-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.66e-06
+Stopped timer 1 at 7.67943
+Finish test k = 7, m = 10
+Join timer: 0 7.68019
+Finish timer: 0.00243271
+Main time: 6257.35 MS
+Time = 7.68277 seconds 
+Time1 = 7.67943 seconds 
+Data sent = 36.2712 MB in ~6231 rounds (party 0)
+Global data sent = 96.7246 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-12-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.131e-06
+Stopped timer 1 at 8.52272
+Finish test k = 7, m = 12
+Join timer: 0 8.52329
+Finish timer: 0.00258712
+Main time: 7041.59 MS
+Time = 8.52597 seconds 
+Time1 = 8.52272 seconds 
+Data sent = 43.2881 MB in ~7367 rounds (party 0)
+Global data sent = 115.313 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-14-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.225e-06
+Stopped timer 1 at 9.6334
+Finish test k = 7, m = 14
+Join timer: 0 9.63405
+Finish timer: 0.00298088
+Main time: 7979.01 MS
+Time = 9.63721 seconds 
+Time1 = 9.6334 seconds 
+Data sent = 47.7495 MB in ~8217 rounds (party 0)
+Global data sent = 127.768 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-16-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.177e-06
+Stopped timer 1 at 11.4187
+Finish test k = 7, m = 16
+Join timer: 0 11.4195
+Finish timer: 0.0028819
+Main time: 9191.6 MS
+Time = 11.4225 seconds 
+Time1 = 11.4187 seconds 
+Data sent = 55.8117 MB in ~9614 rounds (party 0)
+Global data sent = 148.726 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-18-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.398e-06
+Stopped timer 1 at 12.611
+Finish test k = 7, m = 18
+Join timer: 0 12.6117
+Finish timer: 0.00235556
+Main time: 10042.7 MS
+Time = 12.6142 seconds 
+Time1 = 12.611 seconds 
+Data sent = 60.5043 MB in ~10156 rounds (party 0)
+Global data sent = 161.758 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-20-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.478e-06
+Stopped timer 1 at 13.6414
+Finish test k = 7, m = 20
+Join timer: 0 13.642
+Finish timer: 0.00270248
+Main time: 11133.9 MS
+Time = 13.6449 seconds 
+Time1 = 13.6414 seconds 
+Data sent = 65.2182 MB in ~11607 rounds (party 0)
+Global data sent = 174.22 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-22-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.103e-06
+Stopped timer 1 at 15.4999
+Finish test k = 7, m = 22
+Join timer: 0 15.5006
+Finish timer: 0.00328663
+Main time: 12552.5 MS
+Time = 15.5041 seconds 
+Time1 = 15.4999 seconds 
+Data sent = 75.0419 MB in ~12573 rounds (party 0)
+Global data sent = 200.576 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-24-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.05e-06
+Stopped timer 1 at 16.4967
+Finish test k = 7, m = 24
+Join timer: 0 16.4974
+Finish timer: 0.00253031
+Main time: 13040.6 MS
+Time = 16.5 seconds 
+Time1 = 16.4967 seconds 
+Data sent = 77.4944 MB in ~12839 rounds (party 0)
+Global data sent = 207.133 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-26-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.937e-06
+Stopped timer 1 at 17.0512
+Finish test k = 7, m = 26
+Join timer: 0 17.0518
+Finish timer: 0.00335792
+Main time: 13749.7 MS
+Time = 17.0553 seconds 
+Time1 = 17.0512 seconds 
+Data sent = 84.706 MB in ~13569 rounds (party 0)
+Global data sent = 226.089 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-28-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.675e-06
+Stopped timer 1 at 20.0397
+Finish test k = 7, m = 28
+Join timer: 0 20.0403
+Finish timer: 0.00403809
+Main time: 16212.7 MS
+Time = 20.0444 seconds 
+Time1 = 20.0397 seconds 
+Data sent = 92.5031 MB in ~16160 rounds (party 0)
+Global data sent = 247.008 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-30-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.808e-06
+Stopped timer 1 at 20.6984
+Finish test k = 7, m = 30
+Join timer: 0 20.699
+Finish timer: 0.00322232
+Main time: 16413 MS
+Time = 20.7024 seconds 
+Time1 = 20.6984 seconds 
+Data sent = 97.7598 MB in ~16655 rounds (party 0)
+Global data sent = 261.327 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-32-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.93e-06
+Stopped timer 1 at 22.3137
+Finish test k = 7, m = 32
+Join timer: 0 22.3145
+Finish timer: 0.00250652
+Main time: 17586.2 MS
+Time = 22.3171 seconds 
+Time1 = 22.3137 seconds 
+Data sent = 103.371 MB in ~17275 rounds (party 0)
+Global data sent = 276.026 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-34-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.493e-06
+Stopped timer 1 at 22.7873
+Finish test k = 7, m = 34
+Join timer: 0 22.788
+Finish timer: 0.00273416
+Main time: 18370.4 MS
+Time = 22.7909 seconds 
+Time1 = 22.7873 seconds 
+Data sent = 110.089 MB in ~17908 rounds (party 0)
+Global data sent = 294.372 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-36-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 4.152e-06
+Stopped timer 1 at 24.668
+Finish test k = 7, m = 36
+Join timer: 0 24.6687
+Finish timer: 0.00239616
+Main time: 19141.8 MS
+Time = 24.6713 seconds 
+Time1 = 24.668 seconds 
+Data sent = 116.485 MB in ~18585 rounds (party 0)
+Global data sent = 311.414 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-38-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.308e-06
+Stopped timer 1 at 25.3327
+Finish test k = 7, m = 38
+Join timer: 0 25.3334
+Finish timer: 0.00345557
+Main time: 19782.4 MS
+Time = 25.337 seconds 
+Time1 = 25.3327 seconds 
+Data sent = 121.382 MB in ~19109 rounds (party 0)
+Global data sent = 324.334 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-40-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.405e-06
+Stopped timer 1 at 27.8392
+Finish test k = 7, m = 40
+Join timer: 0 27.8398
+Finish timer: 0.00246262
+Main time: 21907.7 MS
+Time = 27.8424 seconds 
+Time1 = 27.8392 seconds 
+Data sent = 127.54 MB in ~22891 rounds (party 0)
+Global data sent = 340.78 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-42-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.93e-06
+Stopped timer 1 at 28.313
+Finish test k = 7, m = 42
+Join timer: 0 28.3136
+Finish timer: 0.00268562
+Main time: 23049.5 MS
+Time = 28.3164 seconds 
+Time1 = 28.313 seconds 
+Data sent = 134.542 MB in ~23621 rounds (party 0)
+Global data sent = 359.331 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-44-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.342e-06
+Stopped timer 1 at 29.6217
+Finish test k = 7, m = 44
+Join timer: 0 29.6224
+Finish timer: 0.00288787
+Main time: 23699.6 MS
+Time = 29.6254 seconds 
+Time1 = 29.6217 seconds 
+Data sent = 140.662 MB in ~24188 rounds (party 0)
+Global data sent = 375.682 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-46-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.1e-06
+Stopped timer 1 at 30.9467
+Finish test k = 7, m = 46
+Join timer: 0 30.9473
+Finish timer: 0.00307984
+Main time: 25079.4 MS
+Time = 30.9505 seconds 
+Time1 = 30.9467 seconds 
+Data sent = 147.033 MB in ~24855 rounds (party 0)
+Global data sent = 392.661 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-48-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.886e-06
+Stopped timer 1 at 31.9286
+Finish test k = 7, m = 48
+Join timer: 0 31.9292
+Finish timer: 0.0024787
+Main time: 25241.9 MS
+Time = 31.9318 seconds 
+Time1 = 31.9286 seconds 
+Data sent = 152.578 MB in ~25465 rounds (party 0)
+Global data sent = 407.702 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-50-0 using protocol ./replicated-field-party.x 
+
+Success
+
+
+Test non_linear_profiler-2-9-2-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.593e-06
+Stopped timer 1 at 2.87996
+Finish test k = 9, m = 2
+Join timer: 0 2.88061
+Finish timer: 0.00183432
+Main time: 2144.5 MS
+Time = 2.8826 seconds 
+Time1 = 2.87996 seconds 
+Data sent = 13.3985 MB in ~1987 rounds (party 0)
+Global data sent = 35.9275 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-4-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.686e-06
+Stopped timer 1 at 4.45294
+Finish test k = 9, m = 4
+Join timer: 0 4.45359
+Finish timer: 0.00278561
+Main time: 3617.7 MS
+Time = 4.45653 seconds 
+Time1 = 4.45294 seconds 
+Data sent = 22.2306 MB in ~3442 rounds (party 0)
+Global data sent = 59.4058 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-6-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.428e-06
+Stopped timer 1 at 6.06161
+Finish test k = 9, m = 6
+Join timer: 0 6.06227
+Finish timer: 0.00241274
+Main time: 4767.35 MS
+Time = 6.06483 seconds 
+Time1 = 6.06161 seconds 
+Data sent = 29.8804 MB in ~4870 rounds (party 0)
+Global data sent = 79.5529 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-8-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.675e-06
+Stopped timer 1 at 7.55356
+Finish test k = 9, m = 8
+Join timer: 0 7.55403
+Finish timer: 0.00244454
+Main time: 5791.53 MS
+Time = 7.55672 seconds 
+Time1 = 7.55356 seconds 
+Data sent = 35.6231 MB in ~6082 rounds (party 0)
+Global data sent = 95.1821 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-10-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.647e-06
+Stopped timer 1 at 8.823
+Finish test k = 9, m = 10
+Join timer: 0 8.82364
+Finish timer: 0.00275553
+Main time: 7317.17 MS
+Time = 8.82654 seconds 
+Time1 = 8.823 seconds 
+Data sent = 45.5344 MB in ~7295 rounds (party 0)
+Global data sent = 121.233 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-12-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.76e-06
+Stopped timer 1 at 10.7944
+Finish test k = 9, m = 12
+Join timer: 0 10.7951
+Finish timer: 0.00259586
+Main time: 8855.13 MS
+Time = 10.7979 seconds 
+Time1 = 10.7944 seconds 
+Data sent = 54.1567 MB in ~8950 rounds (party 0)
+Global data sent = 144.307 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-14-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.577e-06
+Stopped timer 1 at 12.7673
+Finish test k = 9, m = 14
+Join timer: 0 12.7681
+Finish timer: 0.00325636
+Main time: 10254.3 MS
+Time = 12.7715 seconds 
+Time1 = 12.7673 seconds 
+Data sent = 60.7273 MB in ~9620 rounds (party 0)
+Global data sent = 161.881 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-16-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.8e-06
+Stopped timer 1 at 14.3698
+Finish test k = 9, m = 16
+Join timer: 0 14.3705
+Finish timer: 0.00244303
+Main time: 11168.8 MS
+Time = 14.3731 seconds 
+Time1 = 14.3698 seconds 
+Data sent = 68.362 MB in ~11042 rounds (party 0)
+Global data sent = 181.991 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-18-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.692e-06
+Stopped timer 1 at 16.3852
+Finish test k = 9, m = 18
+Join timer: 0 16.3859
+Finish timer: 0.0034518
+Main time: 12976.4 MS
+Time = 16.3895 seconds 
+Time1 = 16.3852 seconds 
+Data sent = 75.5031 MB in ~12767 rounds (party 0)
+Global data sent = 201.491 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-20-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.535e-06
+Stopped timer 1 at 17.7837
+Finish test k = 9, m = 20
+Join timer: 0 17.7843
+Finish timer: 0.00238431
+Main time: 13837.4 MS
+Time = 17.7868 seconds 
+Time1 = 17.7837 seconds 
+Data sent = 84.6115 MB in ~13732 rounds (party 0)
+Global data sent = 225.66 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-22-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.122e-06
+Stopped timer 1 at 19.2845
+Finish test k = 9, m = 22
+Join timer: 0 19.2852
+Finish timer: 0.00315024
+Main time: 15202 MS
+Time = 19.2885 seconds 
+Time1 = 19.2845 seconds 
+Data sent = 92.6433 MB in ~14524 rounds (party 0)
+Global data sent = 246.757 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-24-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.205e-06
+Stopped timer 1 at 20.5907
+Finish test k = 9, m = 24
+Join timer: 0 20.5914
+Finish timer: 0.00261366
+Main time: 16426.2 MS
+Time = 20.5941 seconds 
+Time1 = 20.5907 seconds 
+Data sent = 98.3609 MB in ~16926 rounds (party 0)
+Global data sent = 262.324 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-26-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.283e-06
+Stopped timer 1 at 23.0629
+Finish test k = 9, m = 26
+Join timer: 0 23.0636
+Finish timer: 0.00254555
+Main time: 18179.9 MS
+Time = 23.0663 seconds 
+Time1 = 23.0629 seconds 
+Data sent = 107.442 MB in ~17880 rounds (party 0)
+Global data sent = 286.423 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-28-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.33e-06
+Stopped timer 1 at 23.5496
+Finish test k = 9, m = 28
+Join timer: 0 23.5502
+Finish timer: 0.00373608
+Main time: 19034.5 MS
+Time = 23.5541 seconds 
+Time1 = 23.5496 seconds 
+Data sent = 114.853 MB in ~18613 rounds (party 0)
+Global data sent = 305.974 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-30-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.609e-06
+Stopped timer 1 at 26.1186
+Finish test k = 9, m = 30
+Join timer: 0 26.1193
+Finish timer: 0.00280978
+Main time: 20657.8 MS
+Time = 26.1222 seconds 
+Time1 = 26.1186 seconds 
+Data sent = 122.26 MB in ~19444 rounds (party 0)
+Global data sent = 326.14 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-32-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.578e-06
+Stopped timer 1 at 27.5758
+Finish test k = 9, m = 32
+Join timer: 0 27.5765
+Finish timer: 0.00275207
+Main time: 21552.8 MS
+Time = 27.5794 seconds 
+Time1 = 27.5758 seconds 
+Data sent = 130.87 MB in ~20294 rounds (party 0)
+Global data sent = 349.182 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-34-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.306e-06
+Stopped timer 1 at 27.9971
+Finish test k = 9, m = 34
+Join timer: 0 27.9977
+Finish timer: 0.00272883
+Main time: 22049.4 MS
+Time = 28.0006 seconds 
+Time1 = 27.9971 seconds 
+Data sent = 137.43 MB in ~20960 rounds (party 0)
+Global data sent = 366.731 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-36-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.522e-06
+Stopped timer 1 at 31.4905
+Finish test k = 9, m = 36
+Join timer: 0 31.4913
+Finish timer: 0.00372635
+Main time: 24973 MS
+Time = 31.4952 seconds 
+Time1 = 31.4905 seconds 
+Data sent = 146.519 MB in ~25117 rounds (party 0)
+Global data sent = 390.85 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-38-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.072e-06
+Stopped timer 1 at 33.2171
+Finish test k = 9, m = 38
+Join timer: 0 33.2178
+Finish timer: 0.00331226
+Main time: 26451.1 MS
+Time = 33.2213 seconds 
+Time1 = 33.2171 seconds 
+Data sent = 153.102 MB in ~25792 rounds (party 0)
+Global data sent = 408.456 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-40-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.79e-06
+Stopped timer 1 at 33.7637
+Finish test k = 9, m = 40
+Join timer: 0 33.7645
+Finish timer: 0.00259541
+Main time: 26703 MS
+Time = 33.7672 seconds 
+Time1 = 33.7637 seconds 
+Data sent = 162.16 MB in ~26737 rounds (party 0)
+Global data sent = 432.499 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-42-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.045e-06
+Stopped timer 1 at 36.0656
+Finish test k = 9, m = 42
+Join timer: 0 36.0661
+Finish timer: 0.00259519
+Main time: 28629 MS
+Time = 36.0689 seconds 
+Time1 = 36.0656 seconds 
+Data sent = 169.354 MB in ~27467 rounds (party 0)
+Global data sent = 451.626 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-44-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.946e-06
+Stopped timer 1 at 36.4043
+Finish test k = 9, m = 44
+Join timer: 0 36.4049
+Finish timer: 0.00312836
+Main time: 29006.4 MS
+Time = 36.4081 seconds 
+Time1 = 36.4043 seconds 
+Data sent = 176.778 MB in ~28205 rounds (party 0)
+Global data sent = 471.208 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-46-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 3.586e-06
+Stopped timer 1 at 38.792
+Finish test k = 9, m = 46
+Join timer: 0 38.7927
+Finish timer: 0.00306288
+Main time: 30553.2 MS
+Time = 38.7959 seconds 
+Time1 = 38.792 seconds 
+Data sent = 183.6 MB in ~28975 rounds (party 0)
+Global data sent = 489.41 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-48-0 using protocol ./replicated-field-party.x 
+
+Starting timer 1 at 0 after 2.941e-06
+Stopped timer 1 at 40.8653
+Finish test k = 9, m = 48
+Join timer: 0 40.8659
+Finish timer: 0.00287466
+Main time: 32081.1 MS
+Time = 40.869 seconds 
+Time1 = 40.8653 seconds 
+Data sent = 192.429 MB in ~29829 rounds (party 0)
+Global data sent = 512.882 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-50-0 using protocol ./replicated-field-party.x 
+
+Success

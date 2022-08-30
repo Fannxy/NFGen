@@ -1,0 +1,2212 @@
+Test protocol - 
+
+Test protocol - ./replicated-ring-party.x
+
+Success ./replicated-ring-party.x for (k, m)=(3, 2) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 4) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 6) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 8) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 10) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 12) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 14) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 16) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 18) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 20) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 22) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 24) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 26) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 28) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 30) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 32) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 34) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 36) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 38) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 40) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 42) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 44) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 46) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 48) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(3, 50) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 2) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 4) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 6) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 8) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 10) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 12) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 14) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 16) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 18) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 20) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 22) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 24) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 26) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 28) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 30) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 32) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 34) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 36) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 38) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 40) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 42) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 44) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 46) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 48) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(5, 50) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 2) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 4) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 6) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 8) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 10) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 12) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 14) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 16) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 18) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 20) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 22) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 24) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 26) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 28) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 30) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 32) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 34) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 36) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 38) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 40) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 42) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 44) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 46) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 48) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(7, 50) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 2) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 4) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 6) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 8) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 10) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 12) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 14) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 16) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 18) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 20) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 22) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 24) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 26) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 28) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 30) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 32) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 34) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 36) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 38) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 40) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 42) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 44) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 46) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 48) 
+
+
+
+Success ./replicated-ring-party.x for (k, m)=(9, 50) 
+
+
+
+Test protocol - ./replicated-field-party.x
+
+Success ./replicated-field-party.x for (k, m)=(3, 2) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 4) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 6) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 8) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 10) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 12) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 14) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 16) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 18) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 20) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 22) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 24) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 26) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 28) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 30) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 32) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 34) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 36) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 38) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 40) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 42) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 44) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 46) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 48) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(3, 50) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 2) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 4) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 6) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 8) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 10) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 12) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 14) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 16) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 18) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 20) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 22) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 24) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 26) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 28) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 30) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 32) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 34) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 36) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 38) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 40) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 42) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 44) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 46) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 48) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(5, 50) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 2) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 4) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 6) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 8) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 10) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 12) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 14) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 16) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 18) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 20) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 22) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 24) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 26) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 28) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 30) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 32) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 34) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 36) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 38) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 40) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 42) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 44) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 46) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 48) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(7, 50) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 2) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 4) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 6) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 8) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 10) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 12) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 14) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 16) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 18) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 20) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 22) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 24) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 26) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 28) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 30) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 32) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 34) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 36) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 38) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 40) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 42) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 44) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 46) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 48) 
+
+
+
+Success ./replicated-field-party.x for (k, m)=(9, 50) 
+
+
+
+Test protocol - ./ps-rep-field-party.x
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 2 
+Success ./ps-rep-field-party.x for (k, m)=(3, 2) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 4 
+Success ./ps-rep-field-party.x for (k, m)=(3, 4) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 6 
+Success ./ps-rep-field-party.x for (k, m)=(3, 6) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 8 
+Success ./ps-rep-field-party.x for (k, m)=(3, 8) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 10 
+Success ./ps-rep-field-party.x for (k, m)=(3, 10) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 12 
+Success ./ps-rep-field-party.x for (k, m)=(3, 12) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 14 
+Success ./ps-rep-field-party.x for (k, m)=(3, 14) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 16 
+Success ./ps-rep-field-party.x for (k, m)=(3, 16) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 18 
+Success ./ps-rep-field-party.x for (k, m)=(3, 18) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 20 
+Success ./ps-rep-field-party.x for (k, m)=(3, 20) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 22 
+Success ./ps-rep-field-party.x for (k, m)=(3, 22) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 24 
+Success ./ps-rep-field-party.x for (k, m)=(3, 24) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 26 
+Success ./ps-rep-field-party.x for (k, m)=(3, 26) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 28 
+Success ./ps-rep-field-party.x for (k, m)=(3, 28) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 30 
+Success ./ps-rep-field-party.x for (k, m)=(3, 30) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 32 
+Success ./ps-rep-field-party.x for (k, m)=(3, 32) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 34 
+Success ./ps-rep-field-party.x for (k, m)=(3, 34) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 36 
+Success ./ps-rep-field-party.x for (k, m)=(3, 36) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 38 
+Success ./ps-rep-field-party.x for (k, m)=(3, 38) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 40 
+Success ./ps-rep-field-party.x for (k, m)=(3, 40) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 42 
+Success ./ps-rep-field-party.x for (k, m)=(3, 42) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 44 
+Success ./ps-rep-field-party.x for (k, m)=(3, 44) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 46 
+Success ./ps-rep-field-party.x for (k, m)=(3, 46) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 48 
+Success ./ps-rep-field-party.x for (k, m)=(3, 48) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 3, 50 
+Success ./ps-rep-field-party.x for (k, m)=(3, 50) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 2 
+Success ./ps-rep-field-party.x for (k, m)=(5, 2) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 4 
+Success ./ps-rep-field-party.x for (k, m)=(5, 4) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 6 
+Success ./ps-rep-field-party.x for (k, m)=(5, 6) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 8 
+Success ./ps-rep-field-party.x for (k, m)=(5, 8) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 10 
+Success ./ps-rep-field-party.x for (k, m)=(5, 10) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 12 
+Success ./ps-rep-field-party.x for (k, m)=(5, 12) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 14 
+Success ./ps-rep-field-party.x for (k, m)=(5, 14) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 16 
+Success ./ps-rep-field-party.x for (k, m)=(5, 16) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 18 
+Success ./ps-rep-field-party.x for (k, m)=(5, 18) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 20 
+Success ./ps-rep-field-party.x for (k, m)=(5, 20) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 22 
+Success ./ps-rep-field-party.x for (k, m)=(5, 22) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 24 
+Success ./ps-rep-field-party.x for (k, m)=(5, 24) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 26 
+Success ./ps-rep-field-party.x for (k, m)=(5, 26) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 28 
+Success ./ps-rep-field-party.x for (k, m)=(5, 28) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 30 
+Success ./ps-rep-field-party.x for (k, m)=(5, 30) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 32 
+Success ./ps-rep-field-party.x for (k, m)=(5, 32) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 34 
+Success ./ps-rep-field-party.x for (k, m)=(5, 34) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 36 
+Success ./ps-rep-field-party.x for (k, m)=(5, 36) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 38 
+Success ./ps-rep-field-party.x for (k, m)=(5, 38) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 40 
+Success ./ps-rep-field-party.x for (k, m)=(5, 40) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 42 
+Success ./ps-rep-field-party.x for (k, m)=(5, 42) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 44 
+Success ./ps-rep-field-party.x for (k, m)=(5, 44) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 46 
+Success ./ps-rep-field-party.x for (k, m)=(5, 46) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 48 
+Success ./ps-rep-field-party.x for (k, m)=(5, 48) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 5, 50 
+Success ./ps-rep-field-party.x for (k, m)=(5, 50) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 2 
+Success ./ps-rep-field-party.x for (k, m)=(7, 2) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 4 
+Success ./ps-rep-field-party.x for (k, m)=(7, 4) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 6 
+Success ./ps-rep-field-party.x for (k, m)=(7, 6) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 8 
+Success ./ps-rep-field-party.x for (k, m)=(7, 8) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 10 
+Success ./ps-rep-field-party.x for (k, m)=(7, 10) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 12 
+Success ./ps-rep-field-party.x for (k, m)=(7, 12) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 14 
+Success ./ps-rep-field-party.x for (k, m)=(7, 14) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 16 
+Success ./ps-rep-field-party.x for (k, m)=(7, 16) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 18 
+Success ./ps-rep-field-party.x for (k, m)=(7, 18) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 20 
+Success ./ps-rep-field-party.x for (k, m)=(7, 20) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 22 
+Success ./ps-rep-field-party.x for (k, m)=(7, 22) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 24 
+Success ./ps-rep-field-party.x for (k, m)=(7, 24) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 26 
+Success ./ps-rep-field-party.x for (k, m)=(7, 26) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 28 
+Success ./ps-rep-field-party.x for (k, m)=(7, 28) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 30 
+Success ./ps-rep-field-party.x for (k, m)=(7, 30) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 32 
+Success ./ps-rep-field-party.x for (k, m)=(7, 32) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 34 
+Success ./ps-rep-field-party.x for (k, m)=(7, 34) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 36 
+Success ./ps-rep-field-party.x for (k, m)=(7, 36) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 38 
+Success ./ps-rep-field-party.x for (k, m)=(7, 38) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 40 
+Success ./ps-rep-field-party.x for (k, m)=(7, 40) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 42 
+Success ./ps-rep-field-party.x for (k, m)=(7, 42) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 44 
+Success ./ps-rep-field-party.x for (k, m)=(7, 44) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 46 
+Success ./ps-rep-field-party.x for (k, m)=(7, 46) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 48 
+Success ./ps-rep-field-party.x for (k, m)=(7, 48) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 7, 50 
+Success ./ps-rep-field-party.x for (k, m)=(7, 50) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 2 
+Success ./ps-rep-field-party.x for (k, m)=(9, 2) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 4 
+Success ./ps-rep-field-party.x for (k, m)=(9, 4) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 6 
+Success ./ps-rep-field-party.x for (k, m)=(9, 6) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 8 
+Success ./ps-rep-field-party.x for (k, m)=(9, 8) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 10 
+Success ./ps-rep-field-party.x for (k, m)=(9, 10) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 12 
+Success ./ps-rep-field-party.x for (k, m)=(9, 12) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 14 
+Success ./ps-rep-field-party.x for (k, m)=(9, 14) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 16 
+Success ./ps-rep-field-party.x for (k, m)=(9, 16) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 18 
+Success ./ps-rep-field-party.x for (k, m)=(9, 18) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 20 
+Success ./ps-rep-field-party.x for (k, m)=(9, 20) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 22 
+Success ./ps-rep-field-party.x for (k, m)=(9, 22) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 24 
+Success ./ps-rep-field-party.x for (k, m)=(9, 24) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 26 
+Success ./ps-rep-field-party.x for (k, m)=(9, 26) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 28 
+Success ./ps-rep-field-party.x for (k, m)=(9, 28) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 30 
+Success ./ps-rep-field-party.x for (k, m)=(9, 30) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 32 
+Success ./ps-rep-field-party.x for (k, m)=(9, 32) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 34 
+Success ./ps-rep-field-party.x for (k, m)=(9, 34) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 36 
+Success ./ps-rep-field-party.x for (k, m)=(9, 36) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 38 
+Success ./ps-rep-field-party.x for (k, m)=(9, 38) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 40 
+Success ./ps-rep-field-party.x for (k, m)=(9, 40) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 42 
+Success ./ps-rep-field-party.x for (k, m)=(9, 42) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 44 
+Success ./ps-rep-field-party.x for (k, m)=(9, 44) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 46 
+Success ./ps-rep-field-party.x for (k, m)=(9, 46) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 48 
+Success ./ps-rep-field-party.x for (k, m)=(9, 48) 
+
+
+
+Protocol ./ps-rep-field-party.x test for k, m = 9, 50 
+Success ./ps-rep-field-party.x for (k, m)=(9, 50) 
+
+
+
+Test protocol - ./ps-rep-ring-party.x
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 2 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 2) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 4 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 4) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 6 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 6) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 8 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 8) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 10 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 10) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 12 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 12) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 14 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 14) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 16 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 16) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 18 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 18) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 20 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 20) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 22 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 22) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 24 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 24) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 26 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 26) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 28 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 28) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 30 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 30) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 32 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 32) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 34 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 34) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 36 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 36) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 38 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 38) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 40 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 40) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 42 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 42) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 44 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 44) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 46 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 46) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 48 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 48) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 3, 50 
+Success ./ps-rep-ring-party.x for (k, m)=(3, 50) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 2 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 2) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 4 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 4) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 6 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 6) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 8 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 8) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 10 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 10) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 12 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 12) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 14 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 14) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 16 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 16) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 18 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 18) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 20 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 20) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 22 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 22) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 24 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 24) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 26 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 26) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 28 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 28) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 30 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 30) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 32 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 32) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 34 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 34) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 36 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 36) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 38 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 38) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 40 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 40) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 42 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 42) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 44 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 44) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 46 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 46) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 48 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 48) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 5, 50 
+Success ./ps-rep-ring-party.x for (k, m)=(5, 50) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 2 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 2) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 4 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 4) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 6 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 6) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 8 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 8) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 10 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 10) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 12 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 12) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 14 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 14) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 16 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 16) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 18 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 18) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 20 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 20) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 22 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 22) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 24 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 24) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 26 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 26) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 28 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 28) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 30 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 30) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 32 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 32) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 34 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 34) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 36 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 36) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 38 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 38) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 40 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 40) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 42 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 42) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 44 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 44) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 46 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 46) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 48 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 48) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 7, 50 
+Success ./ps-rep-ring-party.x for (k, m)=(7, 50) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 2 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 2) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 4 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 4) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 6 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 6) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 8 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 8) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 10 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 10) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 12 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 12) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 14 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 14) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 16 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 16) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 18 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 18) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 20 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 20) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 22 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 22) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 24 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 24) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 26 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 26) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 28 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 28) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 30 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 30) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 32 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 32) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 34 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 34) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 36 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 36) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 38 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 38) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 40 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 40) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 42 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 42) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 44 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 44) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 46 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 46) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 48 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 48) 
+
+
+
+Protocol ./ps-rep-ring-party.x test for k, m = 9, 50 
+Success ./ps-rep-ring-party.x for (k, m)=(9, 50) 
+
+
+
+Test protocol - ./shamir-party.x
+
+Success ./shamir-party.x for (k, m)=(3, 2) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 4) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 6) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 8) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 10) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 12) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 14) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 16) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 18) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 20) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 22) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 24) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 26) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 28) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 30) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 32) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 34) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 36) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 38) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 40) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 42) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 44) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 46) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 48) 
+
+
+
+Success ./shamir-party.x for (k, m)=(3, 50) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 2) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 4) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 6) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 8) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 10) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 12) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 14) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 16) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 18) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 20) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 22) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 24) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 26) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 28) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 30) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 32) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 34) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 36) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 38) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 40) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 42) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 44) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 46) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 48) 
+
+
+
+Success ./shamir-party.x for (k, m)=(5, 50) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 2) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 4) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 6) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 8) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 10) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 12) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 14) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 16) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 18) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 20) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 22) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 24) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 26) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 28) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 30) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 32) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 34) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 36) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 38) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 40) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 42) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 44) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 46) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 48) 
+
+
+
+Success ./shamir-party.x for (k, m)=(7, 50) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 2) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 4) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 6) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 8) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 10) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 12) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 14) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 16) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 18) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 20) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 22) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 24) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 26) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 28) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 30) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 32) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 34) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 36) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 38) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 40) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 42) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 44) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 46) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 48) 
+
+
+
+Success ./shamir-party.x for (k, m)=(9, 50) 
+
+
+

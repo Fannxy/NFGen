@@ -1,0 +1,1460 @@
+
+
+Test non_linear_profiler-2-3-2-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.838e-06
+Stopped timer 1 at 2.58252
+Finish test k = 3, m = 2
+Join timer: 0 2.58298
+Finish timer: 0.00638193
+Main time: 2001 MS
+Time = 2.58949 seconds 
+Time1 = 2.58252 seconds 
+Data sent = 33.152 MB in ~817 rounds (party 0)
+Global data sent = 84.72 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-4-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.109e-06
+Stopped timer 1 at 3.76548
+Finish test k = 3, m = 4
+Join timer: 0 3.76592
+Finish timer: 0.00444898
+Main time: 3206.65 MS
+Time = 3.77049 seconds 
+Time1 = 3.76548 seconds 
+Data sent = 47.428 MB in ~1695 rounds (party 0)
+Global data sent = 120.764 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-6-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.772e-06
+Stopped timer 1 at 4.7731
+Finish test k = 3, m = 6
+Join timer: 0 4.77359
+Finish timer: 0.00605194
+Main time: 4172.14 MS
+Time = 4.77977 seconds 
+Time1 = 4.7731 seconds 
+Data sent = 55.984 MB in ~2265 rounds (party 0)
+Global data sent = 141.748 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-8-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.122e-06
+Stopped timer 1 at 6.51772
+Finish test k = 3, m = 8
+Join timer: 0 6.51812
+Finish timer: 0.0036967
+Main time: 5302.61 MS
+Time = 6.52194 seconds 
+Time1 = 6.51772 seconds 
+Data sent = 76.46 MB in ~3043 rounds (party 0)
+Global data sent = 194.052 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-10-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.767e-06
+Stopped timer 1 at 7.20665
+Finish test k = 3, m = 10
+Join timer: 0 7.20717
+Finish timer: 0.00557247
+Main time: 5949.02 MS
+Time = 7.21287 seconds 
+Time1 = 7.20665 seconds 
+Data sent = 81.346 MB in ~3550 rounds (party 0)
+Global data sent = 206.106 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-12-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.467e-06
+Stopped timer 1 at 8.70303
+Finish test k = 3, m = 12
+Join timer: 0 8.70351
+Finish timer: 0.00328842
+Main time: 7686.29 MS
+Time = 8.70693 seconds 
+Time1 = 8.70303 seconds 
+Data sent = 104.842 MB in ~4382 rounds (party 0)
+Global data sent = 265.95 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-14-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.11e-06
+Stopped timer 1 at 10.3653
+Finish test k = 3, m = 14
+Join timer: 0 10.3658
+Finish timer: 0.00346803
+Main time: 8759.22 MS
+Time = 10.3694 seconds 
+Time1 = 10.3653 seconds 
+Data sent = 119.318 MB in ~4845 rounds (party 0)
+Global data sent = 302.494 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-16-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.739e-06
+Stopped timer 1 at 10.851
+Finish test k = 3, m = 16
+Join timer: 0 10.8515
+Finish timer: 0.00355892
+Main time: 9284 MS
+Time = 10.8551 seconds 
+Time1 = 10.851 seconds 
+Data sent = 124.404 MB in ~5357 rounds (party 0)
+Global data sent = 315.048 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-18-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.486e-06
+Stopped timer 1 at 12.164
+Finish test k = 3, m = 18
+Join timer: 0 12.1644
+Finish timer: 0.00428322
+Main time: 10689.1 MS
+Time = 12.1689 seconds 
+Time1 = 12.164 seconds 
+Data sent = 138.92 MB in ~6031 rounds (party 0)
+Global data sent = 351.692 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-20-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.466e-06
+Stopped timer 1 at 13.2542
+Finish test k = 3, m = 20
+Join timer: 0 13.2547
+Finish timer: 0.0053687
+Main time: 11411.9 MS
+Time = 13.2603 seconds 
+Time1 = 13.2542 seconds 
+Data sent = 144.166 MB in ~6757 rounds (party 0)
+Global data sent = 364.646 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-22-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.259e-06
+Stopped timer 1 at 14.4344
+Finish test k = 3, m = 22
+Join timer: 0 14.4349
+Finish timer: 0.00416067
+Main time: 12678.3 MS
+Time = 14.4392 seconds 
+Time1 = 14.4344 seconds 
+Data sent = 170.612 MB in ~7214 rounds (party 0)
+Global data sent = 431.62 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-24-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.33e-06
+Stopped timer 1 at 15.7826
+Finish test k = 3, m = 24
+Join timer: 0 15.7831
+Finish timer: 0.00396006
+Main time: 13728.1 MS
+Time = 15.7872 seconds 
+Time1 = 15.7826 seconds 
+Data sent = 188.158 MB in ~7515 rounds (party 0)
+Global data sent = 475.594 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-26-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.84e-06
+Stopped timer 1 at 17.0254
+Finish test k = 3, m = 26
+Join timer: 0 17.026
+Finish timer: 0.0043487
+Main time: 14754.6 MS
+Time = 17.0304 seconds 
+Time1 = 17.0254 seconds 
+Data sent = 196.054 MB in ~8711 rounds (party 0)
+Global data sent = 496.178 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-28-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.173e-06
+Stopped timer 1 at 17.2324
+Finish test k = 3, m = 28
+Join timer: 0 17.2329
+Finish timer: 0.00331832
+Main time: 15605.6 MS
+Time = 17.2364 seconds 
+Time1 = 17.2324 seconds 
+Data sent = 198.61 MB in ~8756 rounds (party 0)
+Global data sent = 501.402 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-30-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.48e-06
+Stopped timer 1 at 18.4002
+Finish test k = 3, m = 30
+Join timer: 0 18.4007
+Finish timer: 0.00615064
+Main time: 16384.8 MS
+Time = 18.4069 seconds 
+Time1 = 18.4002 seconds 
+Data sent = 213.126 MB in ~9010 rounds (party 0)
+Global data sent = 538.046 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-32-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.813e-06
+Stopped timer 1 at 20.6086
+Finish test k = 3, m = 32
+Join timer: 0 20.609
+Finish timer: 0.00292304
+Main time: 17716.6 MS
+Time = 20.6121 seconds 
+Time1 = 20.6086 seconds 
+Data sent = 242.342 MB in ~9520 rounds (party 0)
+Global data sent = 612.95 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-34-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.415e-06
+Stopped timer 1 at 21.1139
+Finish test k = 3, m = 34
+Join timer: 0 21.1143
+Finish timer: 0.00362541
+Main time: 18633.8 MS
+Time = 21.1181 seconds 
+Time1 = 21.1139 seconds 
+Data sent = 244.238 MB in ~11451 rounds (party 0)
+Global data sent = 617.774 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-36-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.563e-06
+Stopped timer 1 at 21.9596
+Finish test k = 3, m = 36
+Join timer: 0 21.9601
+Finish timer: 0.00262485
+Main time: 19283 MS
+Time = 21.9628 seconds 
+Time1 = 21.9596 seconds 
+Data sent = 252.834 MB in ~11602 rounds (party 0)
+Global data sent = 638.858 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-38-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.556e-06
+Stopped timer 1 at 23.6857
+Finish test k = 3, m = 38
+Join timer: 0 23.6862
+Finish timer: 0.00413291
+Main time: 20379.5 MS
+Time = 23.6905 seconds 
+Time1 = 23.6857 seconds 
+Data sent = 270.38 MB in ~11903 rounds (party 0)
+Global data sent = 682.832 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-40-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.016e-06
+Stopped timer 1 at 26.0158
+Finish test k = 3, m = 40
+Join timer: 0 26.0163
+Finish timer: 0.00458925
+Main time: 22323.2 MS
+Time = 26.021 seconds 
+Time1 = 26.0158 seconds 
+Data sent = 287.226 MB in ~12199 rounds (party 0)
+Global data sent = 726.306 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-42-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.303e-06
+Stopped timer 1 at 26.9583
+Finish test k = 3, m = 42
+Join timer: 0 26.9589
+Finish timer: 0.00443213
+Main time: 23325.8 MS
+Time = 26.9634 seconds 
+Time1 = 26.9583 seconds 
+Data sent = 304.362 MB in ~12497 rounds (party 0)
+Global data sent = 769.49 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-44-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.405e-06
+Stopped timer 1 at 27.0959
+Finish test k = 3, m = 44
+Join timer: 0 27.0963
+Finish timer: 0.00411393
+Main time: 23344.7 MS
+Time = 27.1005 seconds 
+Time1 = 27.0959 seconds 
+Data sent = 313.318 MB in ~12657 rounds (party 0)
+Global data sent = 791.474 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-46-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.922e-06
+Stopped timer 1 at 27.7449
+Finish test k = 3, m = 46
+Join timer: 0 27.7454
+Finish timer: 0.00436016
+Main time: 24028.6 MS
+Time = 27.7499 seconds 
+Time1 = 27.7449 seconds 
+Data sent = 321.214 MB in ~12803 rounds (party 0)
+Global data sent = 812.058 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-48-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.409e-06
+Stopped timer 1 at 28.8608
+Finish test k = 3, m = 48
+Join timer: 0 28.8613
+Finish timer: 0.00914199
+Main time: 24609.3 MS
+Time = 28.8706 seconds 
+Time1 = 28.8608 seconds 
+Data sent = 338.84 MB in ~13106 rounds (party 0)
+Global data sent = 856.232 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-3-50-0 using protocol ./shamir-party.x 
+
+Success
+
+
+Test non_linear_profiler-2-5-2-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.191e-06
+Stopped timer 1 at 3.9366
+Finish test k = 5, m = 2
+Join timer: 0 3.93698
+Finish timer: 0.0049044
+Main time: 3130.34 MS
+Time = 3.94202 seconds 
+Time1 = 3.9366 seconds 
+Data sent = 47.014 MB in ~1583 rounds (party 0)
+Global data sent = 119.434 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-4-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.333e-06
+Stopped timer 1 at 4.99117
+Finish test k = 5, m = 4
+Join timer: 0 4.99167
+Finish timer: 0.00548916
+Main time: 4243.39 MS
+Time = 4.9973 seconds 
+Time1 = 4.99117 seconds 
+Data sent = 65.184 MB in ~2370 rounds (party 0)
+Global data sent = 164.584 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-6-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.239e-06
+Stopped timer 1 at 6.99163
+Finish test k = 5, m = 6
+Join timer: 0 6.99214
+Finish timer: 0.00591887
+Main time: 6092 MS
+Time = 6.9982 seconds 
+Time1 = 6.99163 seconds 
+Data sent = 83.604 MB in ~3192 rounds (party 0)
+Global data sent = 210.604 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-8-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.621e-06
+Stopped timer 1 at 9.16582
+Finish test k = 5, m = 8
+Join timer: 0 9.16634
+Finish timer: 0.00643869
+Main time: 7707.51 MS
+Time = 9.17292 seconds 
+Time1 = 9.16582 seconds 
+Data sent = 105.294 MB in ~4307 rounds (party 0)
+Global data sent = 264.554 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-10-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.134e-06
+Stopped timer 1 at 10.6694
+Finish test k = 5, m = 10
+Join timer: 0 10.6699
+Finish timer: 0.00345434
+Main time: 8837.25 MS
+Time = 10.6735 seconds 
+Time1 = 10.6694 seconds 
+Data sent = 123.874 MB in ~5133 rounds (party 0)
+Global data sent = 310.974 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-12-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.533e-06
+Stopped timer 1 at 13.1237
+Finish test k = 5, m = 12
+Join timer: 0 13.1242
+Finish timer: 0.00400543
+Main time: 11251.3 MS
+Time = 13.1283 seconds 
+Time1 = 13.1237 seconds 
+Data sent = 160.584 MB in ~6032 rounds (party 0)
+Global data sent = 403.984 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-14-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.377e-06
+Stopped timer 1 at 14.3852
+Finish test k = 5, m = 14
+Join timer: 0 14.3856
+Finish timer: 0.00235922
+Main time: 12335.6 MS
+Time = 14.3881 seconds 
+Time1 = 14.3852 seconds 
+Data sent = 169.184 MB in ~6666 rounds (party 0)
+Global data sent = 425.944 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-16-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.648e-06
+Stopped timer 1 at 16.5367
+Finish test k = 5, m = 16
+Join timer: 0 16.5372
+Finish timer: 0.0025391
+Main time: 13846.4 MS
+Time = 16.5399 seconds 
+Time1 = 16.5367 seconds 
+Data sent = 187.684 MB in ~7490 rounds (party 0)
+Global data sent = 472.164 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-18-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.989e-06
+Stopped timer 1 at 18.12
+Finish test k = 5, m = 18
+Join timer: 0 18.1205
+Finish timer: 0.00665564
+Main time: 15581.3 MS
+Time = 18.1272 seconds 
+Time1 = 18.12 seconds 
+Data sent = 218.124 MB in ~8750 rounds (party 0)
+Global data sent = 548.504 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-20-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.275e-06
+Stopped timer 1 at 20.7058
+Finish test k = 5, m = 20
+Join timer: 0 20.7063
+Finish timer: 0.00797364
+Main time: 17623.4 MS
+Time = 20.7144 seconds 
+Time1 = 20.7058 seconds 
+Data sent = 242.864 MB in ~9205 rounds (party 0)
+Global data sent = 611.084 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-22-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.503e-06
+Stopped timer 1 at 22.2546
+Finish test k = 5, m = 22
+Join timer: 0 22.2552
+Finish timer: 0.00624067
+Main time: 18885.3 MS
+Time = 22.2615 seconds 
+Time1 = 22.2546 seconds 
+Data sent = 264.464 MB in ~10805 rounds (party 0)
+Global data sent = 665.044 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-24-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.275e-06
+Stopped timer 1 at 23.1721
+Finish test k = 5, m = 24
+Join timer: 0 23.1726
+Finish timer: 0.00359478
+Main time: 19922.8 MS
+Time = 23.1763 seconds 
+Time1 = 23.1721 seconds 
+Data sent = 276.014 MB in ~11004 rounds (party 0)
+Global data sent = 694.134 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-26-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.203e-06
+Stopped timer 1 at 25.8606
+Finish test k = 5, m = 26
+Join timer: 0 25.8612
+Finish timer: 0.00291526
+Main time: 22476.4 MS
+Time = 25.8642 seconds 
+Time1 = 25.8606 seconds 
+Data sent = 301.334 MB in ~11461 rounds (party 0)
+Global data sent = 756.914 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-28-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.686e-06
+Stopped timer 1 at 26.4124
+Finish test k = 5, m = 28
+Join timer: 0 26.4128
+Finish timer: 0.00255957
+Main time: 22899.6 MS
+Time = 26.4155 seconds 
+Time1 = 26.4124 seconds 
+Data sent = 319.794 MB in ~11804 rounds (party 0)
+Global data sent = 803.034 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-30-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.676e-06
+Stopped timer 1 at 30.5519
+Finish test k = 5, m = 30
+Join timer: 0 30.5524
+Finish timer: 0.00249324
+Main time: 26055.1 MS
+Time = 30.555 seconds 
+Time1 = 30.5519 seconds 
+Data sent = 344.134 MB in ~14409 rounds (party 0)
+Global data sent = 864.614 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-32-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.349e-06
+Stopped timer 1 at 30.8168
+Finish test k = 5, m = 32
+Join timer: 0 30.8172
+Finish timer: 0.00416185
+Main time: 26531.7 MS
+Time = 30.8215 seconds 
+Time1 = 30.8168 seconds 
+Data sent = 365.654 MB in ~14807 rounds (party 0)
+Global data sent = 918.374 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-34-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.645e-06
+Stopped timer 1 at 31.9742
+Finish test k = 5, m = 34
+Join timer: 0 31.9747
+Finish timer: 0.00364389
+Main time: 27893.1 MS
+Time = 31.9785 seconds 
+Time1 = 31.9742 seconds 
+Data sent = 386.594 MB in ~15167 rounds (party 0)
+Global data sent = 971.454 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-36-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 1.949e-06
+Stopped timer 1 at 34.2999
+Finish test k = 5, m = 36
+Join timer: 0 34.3004
+Finish timer: 0.00357888
+Main time: 29506.2 MS
+Time = 34.3041 seconds 
+Time1 = 34.2999 seconds 
+Data sent = 405.174 MB in ~15513 rounds (party 0)
+Global data sent = 1017.87 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-38-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.732e-06
+Stopped timer 1 at 36.395
+Finish test k = 5, m = 38
+Join timer: 0 36.3955
+Finish timer: 0.00306645
+Main time: 31513.6 MS
+Time = 36.3987 seconds 
+Time1 = 36.395 seconds 
+Data sent = 429.554 MB in ~15959 rounds (party 0)
+Global data sent = 1079.55 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-40-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.123e-06
+Stopped timer 1 at 37.0644
+Finish test k = 5, m = 40
+Join timer: 0 37.0649
+Finish timer: 0.00432597
+Main time: 32357.8 MS
+Time = 37.0693 seconds 
+Time1 = 37.0644 seconds 
+Data sent = 448.014 MB in ~16302 rounds (party 0)
+Global data sent = 1125.67 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-42-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.643e-06
+Stopped timer 1 at 39.7749
+Finish test k = 5, m = 42
+Join timer: 0 39.7753
+Finish timer: 0.00370776
+Main time: 34024.2 MS
+Time = 39.7792 seconds 
+Time1 = 39.7749 seconds 
+Data sent = 475.614 MB in ~16807 rounds (party 0)
+Global data sent = 1195.39 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-44-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.553e-06
+Stopped timer 1 at 41.9979
+Finish test k = 5, m = 44
+Join timer: 0 41.9984
+Finish timer: 0.00218685
+Main time: 36196.7 MS
+Time = 42.0007 seconds 
+Time1 = 41.9979 seconds 
+Data sent = 493.744 MB in ~20953 rounds (party 0)
+Global data sent = 1240.44 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-46-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.559e-06
+Stopped timer 1 at 43.8859
+Finish test k = 5, m = 46
+Join timer: 0 43.8864
+Finish timer: 0.0201802
+Main time: 38175.6 MS
+Time = 43.9068 seconds 
+Time1 = 43.8859 seconds 
+Data sent = 515.314 MB in ~21345 rounds (party 0)
+Global data sent = 1294.09 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-48-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.568e-06
+Stopped timer 1 at 45.6926
+Finish test k = 5, m = 48
+Join timer: 0 45.6931
+Finish timer: 0.0045629
+Main time: 39817.5 MS
+Time = 45.6978 seconds 
+Time1 = 45.6926 seconds 
+Data sent = 539.774 MB in ~21793 rounds (party 0)
+Global data sent = 1355.97 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-5-50-0 using protocol ./shamir-party.x 
+
+Success
+
+
+Test non_linear_profiler-2-7-2-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.05e-06
+Stopped timer 1 at 4.60697
+Finish test k = 7, m = 2
+Join timer: 0 4.60756
+Finish timer: 0.00629006
+Main time: 3672.89 MS
+Time = 4.61399 seconds 
+Time1 = 4.60697 seconds 
+Data sent = 57.826 MB in ~1869 rounds (party 0)
+Global data sent = 145.518 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-4-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.498e-06
+Stopped timer 1 at 6.7947
+Finish test k = 7, m = 4
+Join timer: 0 6.79518
+Finish timer: 0.00299105
+Main time: 5592.53 MS
+Time = 6.7983 seconds 
+Time1 = 6.7947 seconds 
+Data sent = 86.14 MB in ~2915 rounds (party 0)
+Global data sent = 216.404 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-6-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.756e-06
+Stopped timer 1 at 9.31542
+Finish test k = 7, m = 6
+Join timer: 0 9.31594
+Finish timer: 0.00336316
+Main time: 7756 MS
+Time = 9.31944 seconds 
+Time1 = 9.31542 seconds 
+Data sent = 114.584 MB in ~4263 rounds (party 0)
+Global data sent = 287.86 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-8-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.598e-06
+Stopped timer 1 at 11.9011
+Finish test k = 7, m = 8
+Join timer: 0 11.9016
+Finish timer: 0.00572699
+Main time: 9826.51 MS
+Time = 11.9075 seconds 
+Time1 = 11.9011 seconds 
+Data sent = 143.428 MB in ~5351 rounds (party 0)
+Global data sent = 360.316 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-10-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.485e-06
+Stopped timer 1 at 14.0482
+Finish test k = 7, m = 10
+Join timer: 0 14.0487
+Finish timer: 0.00222168
+Main time: 11437 MS
+Time = 14.0511 seconds 
+Time1 = 14.0482 seconds 
+Data sent = 174.172 MB in ~6699 rounds (party 0)
+Global data sent = 437.032 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-12-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.39e-06
+Stopped timer 1 at 17.5771
+Finish test k = 7, m = 12
+Join timer: 0 17.5776
+Finish timer: 0.00332993
+Main time: 14641.9 MS
+Time = 17.581 seconds 
+Time1 = 17.5771 seconds 
+Data sent = 209.506 MB in ~7899 rounds (party 0)
+Global data sent = 525.458 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-14-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.273e-06
+Stopped timer 1 at 19.2114
+Finish test k = 7, m = 14
+Join timer: 0 19.2118
+Finish timer: 0.00419822
+Main time: 16682 MS
+Time = 19.2162 seconds 
+Time1 = 19.2114 seconds 
+Data sent = 231.36 MB in ~8841 rounds (party 0)
+Global data sent = 580.684 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-16-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.887e-06
+Stopped timer 1 at 21.9099
+Finish test k = 7, m = 16
+Join timer: 0 21.9104
+Finish timer: 0.00219758
+Main time: 18613.5 MS
+Time = 21.9127 seconds 
+Time1 = 21.9099 seconds 
+Data sent = 269.774 MB in ~10352 rounds (party 0)
+Global data sent = 676.33 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-18-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.426e-06
+Stopped timer 1 at 23.7674
+Finish test k = 7, m = 18
+Join timer: 0 23.768
+Finish timer: 0.00235209
+Main time: 20844.1 MS
+Time = 23.7705 seconds 
+Time1 = 23.7674 seconds 
+Data sent = 295.308 MB in ~10846 rounds (party 0)
+Global data sent = 740.756 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-20-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.579e-06
+Stopped timer 1 at 26.5508
+Finish test k = 7, m = 20
+Join timer: 0 26.5513
+Finish timer: 0.00213204
+Main time: 23174.1 MS
+Time = 26.5535 seconds 
+Time1 = 26.5508 seconds 
+Data sent = 317.702 MB in ~12599 rounds (party 0)
+Global data sent = 796.082 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-22-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.25e-06
+Stopped timer 1 at 30.3468
+Finish test k = 7, m = 22
+Join timer: 0 30.3471
+Finish timer: 0.00209907
+Main time: 25791.6 MS
+Time = 30.3493 seconds 
+Time1 = 30.3468 seconds 
+Data sent = 363.916 MB in ~13441 rounds (party 0)
+Global data sent = 913.228 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-24-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.013e-06
+Stopped timer 1 at 30.6333
+Finish test k = 7, m = 24
+Join timer: 0 30.6338
+Finish timer: 0.0037733
+Main time: 26579.5 MS
+Time = 30.6377 seconds 
+Time1 = 30.6333 seconds 
+Data sent = 377.4 MB in ~13695 rounds (party 0)
+Global data sent = 945.764 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-26-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.467e-06
+Stopped timer 1 at 33.6057
+Finish test k = 7, m = 26
+Join timer: 0 33.6062
+Finish timer: 0.00373569
+Main time: 28285.4 MS
+Time = 33.6101 seconds 
+Time1 = 33.6057 seconds 
+Data sent = 412.464 MB in ~14341 rounds (party 0)
+Global data sent = 1033.28 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-28-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.218e-06
+Stopped timer 1 at 38.1389
+Finish test k = 7, m = 28
+Join timer: 0 38.1394
+Finish timer: 0.00278545
+Main time: 32239.5 MS
+Time = 38.1423 seconds 
+Time1 = 38.1389 seconds 
+Data sent = 450.138 MB in ~17466 rounds (party 0)
+Global data sent = 1128.33 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-30-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.232e-06
+Stopped timer 1 at 40.2259
+Finish test k = 7, m = 30
+Join timer: 0 40.2264
+Finish timer: 0.0049399
+Main time: 33570 MS
+Time = 40.2314 seconds 
+Time1 = 40.2259 seconds 
+Data sent = 474.462 MB in ~17901 rounds (party 0)
+Global data sent = 1189.48 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-32-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.697e-06
+Stopped timer 1 at 41.2238
+Finish test k = 7, m = 32
+Join timer: 0 41.2244
+Finish timer: 0.00272103
+Main time: 35134.1 MS
+Time = 41.2273 seconds 
+Time1 = 41.2238 seconds 
+Data sent = 504.316 MB in ~18469 rounds (party 0)
+Global data sent = 1263.45 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-34-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.4e-06
+Stopped timer 1 at 42.954
+Finish test k = 7, m = 34
+Join timer: 0 42.9544
+Finish timer: 0.00269454
+Main time: 36968.3 MS
+Time = 42.9573 seconds 
+Time1 = 42.954 seconds 
+Data sent = 535 MB in ~19018 rounds (party 0)
+Global data sent = 1341.26 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-36-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.259e-06
+Stopped timer 1 at 45.9879
+Finish test k = 7, m = 36
+Join timer: 0 45.9883
+Finish timer: 0.00652608
+Main time: 39083.9 MS
+Time = 45.995 seconds 
+Time1 = 45.9879 seconds 
+Data sent = 567.274 MB in ~19623 rounds (party 0)
+Global data sent = 1422.05 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-38-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.401e-06
+Stopped timer 1 at 48.3988
+Finish test k = 7, m = 38
+Join timer: 0 48.3993
+Finish timer: 0.00859273
+Main time: 41332.2 MS
+Time = 48.4081 seconds 
+Time1 = 48.3988 seconds 
+Data sent = 592.588 MB in ~20099 rounds (party 0)
+Global data sent = 1484.68 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-40-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.523e-06
+Stopped timer 1 at 51.1872
+Finish test k = 7, m = 40
+Join timer: 0 51.1877
+Finish timer: 0.00652057
+Main time: 44182.6 MS
+Time = 51.1943 seconds 
+Time1 = 51.1872 seconds 
+Data sent = 621.062 MB in ~24929 rounds (party 0)
+Global data sent = 1555.96 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-42-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.709e-06
+Stopped timer 1 at 54.8244
+Finish test k = 7, m = 42
+Join timer: 0 54.8249
+Finish timer: 0.00222394
+Main time: 46850.3 MS
+Time = 54.8273 seconds 
+Time1 = 54.8244 seconds 
+Data sent = 656.156 MB in ~25583 rounds (party 0)
+Global data sent = 1643.79 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-44-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.543e-06
+Stopped timer 1 at 55.4987
+Finish test k = 7, m = 44
+Join timer: 0 55.4991
+Finish timer: 0.00232489
+Main time: 47409.1 MS
+Time = 55.5015 seconds 
+Time1 = 55.4987 seconds 
+Data sent = 684.03 MB in ~26078 rounds (party 0)
+Global data sent = 1713.57 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-46-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.371e-06
+Stopped timer 1 at 58.0559
+Finish test k = 7, m = 46
+Join timer: 0 58.0563
+Finish timer: 0.00242495
+Main time: 49779.1 MS
+Time = 58.0589 seconds 
+Time1 = 58.0559 seconds 
+Data sent = 715.904 MB in ~26673 rounds (party 0)
+Global data sent = 1793.36 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-48-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.823e-06
+Stopped timer 1 at 60.3016
+Finish test k = 7, m = 48
+Join timer: 0 60.302
+Finish timer: 0.00388726
+Main time: 51252 MS
+Time = 60.3061 seconds 
+Time1 = 60.3016 seconds 
+Data sent = 744.828 MB in ~27223 rounds (party 0)
+Global data sent = 1866.02 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-7-50-0 using protocol ./shamir-party.x 
+
+Success
+
+
+Test non_linear_profiler-2-9-2-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.143e-06
+Stopped timer 1 at 5.06717
+Finish test k = 9, m = 2
+Join timer: 0 5.06771
+Finish timer: 0.00454294
+Main time: 4165.13 MS
+Time = 5.07239 seconds 
+Time1 = 5.06717 seconds 
+Data sent = 65.34 MB in ~2019 rounds (party 0)
+Global data sent = 164.804 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-4-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.757e-06
+Stopped timer 1 at 8.74149
+Finish test k = 9, m = 4
+Join timer: 0 8.74201
+Finish timer: 0.00398849
+Main time: 7704.96 MS
+Time = 8.74613 seconds 
+Time1 = 8.74149 seconds 
+Data sent = 106.628 MB in ~3576 rounds (party 0)
+Global data sent = 268.256 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-6-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.642e-06
+Stopped timer 1 at 11.959
+Finish test k = 9, m = 6
+Join timer: 0 11.9595
+Finish timer: 0.00640777
+Main time: 9762.87 MS
+Time = 11.966 seconds 
+Time1 = 11.959 seconds 
+Data sent = 145.996 MB in ~5130 rounds (party 0)
+Global data sent = 366.148 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-8-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.065e-06
+Stopped timer 1 at 14.2233
+Finish test k = 9, m = 8
+Join timer: 0 14.2238
+Finish timer: 0.00213587
+Main time: 12212.9 MS
+Time = 14.2261 seconds 
+Time1 = 14.2233 seconds 
+Data sent = 175.384 MB in ~6492 rounds (party 0)
+Global data sent = 439.58 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-10-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.397e-06
+Stopped timer 1 at 17.1754
+Finish test k = 9, m = 10
+Join timer: 0 17.1758
+Finish timer: 0.00221794
+Main time: 14716.8 MS
+Time = 17.1782 seconds 
+Time1 = 17.1754 seconds 
+Data sent = 223.662 MB in ~7655 rounds (party 0)
+Global data sent = 560.262 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-12-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.81e-06
+Stopped timer 1 at 22.0269
+Finish test k = 9, m = 12
+Join timer: 0 22.0276
+Finish timer: 0.00400674
+Main time: 18789.4 MS
+Time = 22.0317 seconds 
+Time1 = 22.0269 seconds 
+Data sent = 264.98 MB in ~9490 rounds (party 0)
+Global data sent = 664.024 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-14-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.594e-06
+Stopped timer 1 at 23.8607
+Finish test k = 9, m = 14
+Join timer: 0 23.8614
+Finish timer: 0.00233669
+Main time: 20097.9 MS
+Time = 23.8638 seconds 
+Time1 = 23.8607 seconds 
+Data sent = 297.358 MB in ~10088 rounds (party 0)
+Global data sent = 744.686 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-16-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.048e-06
+Stopped timer 1 at 26.5035
+Finish test k = 9, m = 16
+Join timer: 0 26.5039
+Finish timer: 0.00612336
+Main time: 22652.7 MS
+Time = 26.5101 seconds 
+Time1 = 26.5035 seconds 
+Data sent = 336.486 MB in ~11636 rounds (party 0)
+Global data sent = 841.978 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-18-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.271e-06
+Stopped timer 1 at 30.7818
+Finish test k = 9, m = 18
+Join timer: 0 30.7823
+Finish timer: 0.00405086
+Main time: 25514.5 MS
+Time = 30.7865 seconds 
+Time1 = 30.7818 seconds 
+Data sent = 371.234 MB in ~13627 rounds (party 0)
+Global data sent = 929.57 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-20-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.312e-06
+Stopped timer 1 at 33.5943
+Finish test k = 9, m = 20
+Join timer: 0 33.5948
+Finish timer: 0.00202696
+Main time: 28349.9 MS
+Time = 33.5969 seconds 
+Time1 = 33.5943 seconds 
+Data sent = 416.922 MB in ~14484 rounds (party 0)
+Global data sent = 1044.02 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-22-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.729e-06
+Stopped timer 1 at 37.373
+Finish test k = 9, m = 22
+Join timer: 0 37.3735
+Finish timer: 0.0065118
+Main time: 31773.9 MS
+Time = 37.3801 seconds 
+Time1 = 37.373 seconds 
+Data sent = 455.55 MB in ~15188 rounds (party 0)
+Global data sent = 1140.05 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-24-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.598e-06
+Stopped timer 1 at 39.2899
+Finish test k = 9, m = 24
+Join timer: 0 39.2904
+Finish timer: 0.00222431
+Main time: 33504.9 MS
+Time = 39.2927 seconds 
+Time1 = 39.2899 seconds 
+Data sent = 484.538 MB in ~18160 rounds (party 0)
+Global data sent = 1212.49 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-26-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 1.875e-06
+Stopped timer 1 at 42.5622
+Finish test k = 9, m = 26
+Join timer: 0 42.5627
+Finish timer: 0.00232883
+Main time: 36004.5 MS
+Time = 42.5651 seconds 
+Time1 = 42.5622 seconds 
+Data sent = 529.786 MB in ~19006 rounds (party 0)
+Global data sent = 1325.84 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-28-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.18e-06
+Stopped timer 1 at 45.8443
+Finish test k = 9, m = 28
+Join timer: 0 45.8447
+Finish timer: 0.00726062
+Main time: 39082.9 MS
+Time = 45.8521 seconds 
+Time1 = 45.8443 seconds 
+Data sent = 565.354 MB in ~19655 rounds (party 0)
+Global data sent = 1414.23 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-30-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.538e-06
+Stopped timer 1 at 48.2233
+Finish test k = 9, m = 30
+Join timer: 0 48.2238
+Finish timer: 0.00220476
+Main time: 41181 MS
+Time = 48.2261 seconds 
+Time1 = 48.2233 seconds 
+Data sent = 604.342 MB in ~20402 rounds (party 0)
+Global data sent = 1512.42 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-32-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.53e-06
+Stopped timer 1 at 50.4866
+Finish test k = 9, m = 32
+Join timer: 0 50.4871
+Finish timer: 0.00425715
+Main time: 43517.1 MS
+Time = 50.4915 seconds 
+Time1 = 50.4866 seconds 
+Data sent = 645.46 MB in ~21152 rounds (party 0)
+Global data sent = 1615.68 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-34-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 3.203e-06
+Stopped timer 1 at 53.8869
+Finish test k = 9, m = 34
+Join timer: 0 53.8874
+Finish timer: 0.00268095
+Main time: 46031.2 MS
+Time = 53.8902 seconds 
+Time1 = 53.8869 seconds 
+Data sent = 677.678 MB in ~21746 rounds (party 0)
+Global data sent = 1695.95 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-36-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.346e-06
+Stopped timer 1 at 58.8318
+Finish test k = 9, m = 36
+Join timer: 0 58.8323
+Finish timer: 0.00237409
+Main time: 50406.3 MS
+Time = 58.8348 seconds 
+Time1 = 58.8318 seconds 
+Data sent = 723.046 MB in ~26915 rounds (party 0)
+Global data sent = 1809.6 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-38-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.404e-06
+Stopped timer 1 at 62.8445
+Finish test k = 9, m = 38
+Join timer: 0 62.8449
+Finish timer: 0.0039689
+Main time: 52264.1 MS
+Time = 62.8491 seconds 
+Time1 = 62.8445 seconds 
+Data sent = 755.624 MB in ~27518 rounds (party 0)
+Global data sent = 1890.76 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-40-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.167e-06
+Stopped timer 1 at 63.903
+Finish test k = 9, m = 40
+Join timer: 0 63.9035
+Finish timer: 0.00278438
+Main time: 55111.5 MS
+Time = 63.9064 seconds 
+Time1 = 63.903 seconds 
+Data sent = 800.512 MB in ~28355 rounds (party 0)
+Global data sent = 2003.21 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-42-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.045e-06
+Stopped timer 1 at 66.5409
+Finish test k = 9, m = 42
+Join timer: 0 66.5414
+Finish timer: 0.00230338
+Main time: 56390.6 MS
+Time = 66.5438 seconds 
+Time1 = 66.5409 seconds 
+Data sent = 835.99 MB in ~29009 rounds (party 0)
+Global data sent = 2091.61 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-44-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.58e-06
+Stopped timer 1 at 69.2051
+Finish test k = 9, m = 44
+Join timer: 0 69.2055
+Finish timer: 0.00426474
+Main time: 58963 MS
+Time = 69.2099 seconds 
+Time1 = 69.2051 seconds 
+Data sent = 871.758 MB in ~29663 rounds (party 0)
+Global data sent = 2180.51 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-46-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.491e-06
+Stopped timer 1 at 73.1999
+Finish test k = 9, m = 46
+Join timer: 0 73.2003
+Finish timer: 0.00233342
+Main time: 61477.8 MS
+Time = 73.2028 seconds 
+Time1 = 73.1999 seconds 
+Data sent = 908.136 MB in ~30361 rounds (party 0)
+Global data sent = 2271.17 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-48-0 using protocol ./shamir-party.x 
+
+Starting timer 1 at 0 after 2.426e-06
+Stopped timer 1 at 76.6012
+Finish test k = 9, m = 48
+Join timer: 0 76.6017
+Finish timer: 0.00241123
+Main time: 64415.2 MS
+Time = 76.6042 seconds 
+Time1 = 76.6012 seconds 
+Data sent = 949.384 MB in ~31107 rounds (party 0)
+Global data sent = 2374.52 MB (all parties)
+Success
+
+
+Test non_linear_profiler-2-9-50-0 using protocol ./shamir-party.x 
+
+Success
