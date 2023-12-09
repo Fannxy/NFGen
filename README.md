@@ -71,7 +71,16 @@ generate_nonlinear_config(sigmoid_config)
 
 ## Help
 
-Feel free to contact Xiaoyu Fan fanxy20@mails.tsinghua.edu.cn for any assistance about NFGen or raise issues in this repo.
+Feel free to contact Xiaoyu Fan fxy23@mails.tsinghua.edu.cn for any assistance about NFGen or raise issues in this repo.
 
 ## Citing
 
+NFGen is described in [this paper](https://dl.acm.org/doi/pdf/10.1145/3548606.3560565), for academic usage, please cite:
+```
+@inproceedings{fan2022nfgen,
+  title={NFGen: Automatic Non-linear Function Evaluation Code Generator for General-purpose MPC Platforms},
+  author={Fan, Xiaoyu and Chen, Kun and Wang, Guosai and Zhuang, Mingchun and Li, Yi and Xu, Wei},
+  booktitle={Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
+  year={2022}
+}
+```
