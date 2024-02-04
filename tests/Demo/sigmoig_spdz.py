@@ -1,3 +1,4 @@
+from Compiler import types
 
 @types.vectorize
 def sigmoid(x):
@@ -32,8 +33,8 @@ def sigmoid(x):
     for i in range(m):
         comp[i] = (x >= breaks[i])
         
-    cipher_index = Array(n, sfix)
-    @for_range_opt(n-1)
+    cipher_index = Array(m, sfix)
+    @for_range_opt(m-1)
     def _(i):
         cipher_index[i] = comp[i+regint(1)]
         cipher_index[i] = comp[i]*(comp[i] - cipher_index[i]) 
